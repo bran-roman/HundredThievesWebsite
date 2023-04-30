@@ -1,0 +1,88 @@
+﻿@using System.Threading.Tasks.Sources;
+@model IEnumerable<HundredThievesWebsite.Models.BlogEntree>
+
+@{
+    ViewData["Title"] = "Index";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="loading-screen" id="blog-loading">
+    <div class="background-video-overlay">
+        <video id="background-video" src="~/images/100Thieves x Gucci 1080.mp4" type="video/mp4" playsinline autoplay muted loop></video>
+
+    </div>
+
+    <div class="intro">
+        <h1 class="intro-title">Loading</h1>
+        <div class="progress">
+            <div class="progress-value"></div>
+        </div>
+    </div>
+</div>
+
+<!-- Redirects to Partial View "_Index" -->
+@await Html.PartialAsync("_Index");
+
+
+@*<div class="form-container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Author)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Posted)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Updated)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Author)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Posted)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Updated)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.BlogEntreeId">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.BlogEntreeId">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.BlogEntreeId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+</div>*@
+
+@section Scripts {
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/blogintro.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+
+}

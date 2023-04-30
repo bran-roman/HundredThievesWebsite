@@ -1,0 +1,543 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewData["Title"] = "About";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="loading-screen" id="blog-loading">
+    <div class="background-video-overlay">
+        <video id="background-video" src="~/images/100Thieves x Gucci 1080.mp4" type="video/mp4" playsinline autoplay muted loop></video>
+
+    </div>
+
+    <div class="intro">
+        <h1 class="intro-title">Loading</h1>
+        <div class="progress">
+            <div class="progress-value"></div>
+        </div>
+    </div>
+</div>
+
+<section class="about-column landing-page-section">
+    <div class="container-fluid">
+
+    
+        <div class="intro-section">
+
+            <!-- cursor -->
+
+            @*<div class="wrap">
+                <div id="ball"></div>
+            </div>*@
+            
+            <!-- cursor ends -->
+            <div class="wrapper">
+                <!-- intro section starts -->
+                    @*<div class="loading-screen">
+                        <div class="intro">
+                            <h1 class="intro-title">We are thieves</h1>
+                            <div class="progress">
+                                <div class="progress-value"></div>
+                            </div>
+                        </div>
+                    </div>*@
+                <!-- intro section ends -->
+                <!-- content -->
+
+                    <div class="content" id="about-content">
+                        <div class="logo">
+                            <span></span>
+                            <img src="/images/100_Thieves_logo.svg.png" />
+                        </div>
+
+                        <div class="year">2019</div>
+
+                        <div class="overlay-text"> C | Emis | Ry </div>
+
+
+                        <div class="title content-text">
+                            <div class="title hero-title">
+                                <h1>About 100 Thieves</h1>
+                            </div>
+
+                            @*<div class="title hero-title" id="subtitle">
+                                <p id="subtitle">
+                                    100 Thieves ("Hundred Thieves") is a premium lifestyle brand and gaming organization.
+                                    Built at the intersection of competitive gaming, entertainment, and apparel, 100 Thieves was founded in 2017 by Matthew "Nadeshot" Haag, the former OpTic Gaming Call of Duty captain, X Games gold medalist,
+                                    and 2014 Esports Athlete of the Year. After retiring from competitive play, Matt founded 100 Thieves as a creative outlet for his entrepreneurial passions.
+                                    In its first two years, 100 Thieves has won multiple esports major championships in Call of Duty, made the League of Legends and Fortnite World Championships,
+                                    launched the top gaming podcasts on iTunes, sold out over a dozen apparel drops, and is supported by major partners such as Cash App, Chipotle, Rocket Mortgage, Lexus, and Rockstar.
+                                    The company is currently valued at $460M and has raised a total of $120M from investors including Drake, Scooter Braun, Cleveland Cavaliers Owner & Quicken Loans Chairman Dan Gilbert,
+                                    Artist Capital Management, Ludlow Ventures, Green Bay Ventures, and Sequoia. 100 Thieves' mission is to give every gamer something to be proud of.
+                                </p>
+                            </div>*@
+
+                            <div class="bar"></div>
+
+                            <div class="project">
+                                    100 Thieves ("Hundred Thieves") is a premium lifestyle brand and gaming organization.
+                                    Built at the intersection of competitive gaming, entertainment, and apparel, 100 Thieves was founded in 2017 by Matthew "Nadeshot" Haag, the former OpTic Gaming Call of Duty captain, X Games gold medalist,
+                                    and 2014 Esports Athlete of the Year. After retiring from competitive play, Matt founded 100 Thieves as a creative outlet for his entrepreneurial passions.
+                                    <br />
+                                    <br />
+                                    In its first two years, 100 Thieves has won multiple esports major championships in Call of Duty, made the League of Legends and Fortnite World Championships,
+                                    launched the top gaming podcasts on iTunes, sold out over a dozen apparel drops, and is supported by major partners such as Cash App, Chipotle, Rocket Mortgage, Lexus, and Rockstar.
+                                    The company is currently valued at $460M and has raised a total of $120M from investors including Drake, Scooter Braun, Cleveland Cavaliers Owner & Quicken Loans Chairman Dan Gilbert,
+                                    Artist Capital Management, Ludlow Ventures, Green Bay Ventures, and Sequoia. 100 Thieves' mission is to give every gamer something to be proud of.
+                            </div>
+                        </div>
+                        <div class="media">
+                            <ul>
+                                <li>BE</li>
+                                <li>IG</li>
+                                <li>DB</li>
+                                <li>GT</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                <!-- content ends -->
+                <!-- backgrounds -->
+
+                    <div class="container-fluid" id="hero-columns">
+                        <div class="row">
+                            <div class="col-md-2 hero--left"></div>
+                            <div class="col-md-6 hero--middle"></div>
+                            <div class="col-md-4 hero--right"></div>
+
+                        </div>
+                    </div>
+            </div>
+
+            <!-- background ends -->
+        </div>
+    </div>
+</section>
+
+@*<section class="about-thieves">
+    <div class="container" id="about-thieves">
+
+        <div class="col-sm-7 about-thieves-img-container">
+            <img src="~/images/compound-inside.jpg" id="compound" />
+        </div>
+
+        <div class="col-sm-5 about-thieves-content">
+            <div class="about-thieves-heading">
+                <h2 class="section-subheading">
+                    We are <br /><span class="awesome">100 Thieves</span>
+                </h2>
+            </div>
+            <div class="about-thieves-text">
+                <p class="gs_reveal gs_reveal_fromRight">
+                    100 Thieves ("Hundred Thieves") is a premium lifestyle brand and gaming organization.
+                    Built at the intersection of competitive gaming, entertainment, and apparel, 100 Thieves was founded in 2017 by Matthew "Nadeshot" Haag, the former OpTic Gaming Call of Duty captain, X Games gold medalist,
+                    and 2014 Esports Athlete of the Year. After retiring from competitive play, Matt founded 100 Thieves as a creative outlet for his entrepreneurial passions.
+                    In its first two years, 100 Thieves has won multiple esports major championships in Call of Duty, made the League of Legends and Fortnite World Championships,
+                    launched the top gaming podcasts on iTunes, sold out over a dozen apparel drops, and is supported by major partners such as Cash App, Chipotle, Rocket Mortgage, Lexus, and Rockstar.
+                    The company is currently valued at $460M and has raised a total of $120M from investors including Drake, Scooter Braun, Cleveland Cavaliers Owner & Quicken Loans Chairman Dan Gilbert,
+                    Artist Capital Management, Ludlow Ventures, Green Bay Ventures, and Sequoia. 100 Thieves' mission is to give every gamer something to be proud of.
+                </p>
+            </div>
+        </div>
+
+    </div>
+</section>*@
+
+<section>
+    <div class="divider">
+        <div class="inner-divider"></div>
+        <div class="owner-heading col-lg-12">
+            <h2>About the <br /> <span>Owners</span></h2>
+        </div>
+        <div class="inner-divider"></div>
+    </div>
+</section>
+
+<section class="founder">
+    <div class="container-fluid" id="founder-info">
+        <div class="founder-img-content col-sm-6" id="">
+            <div class="founder-img">
+                @*<img src="~/images/nadeshot5.jpg" id="founder-img" />*@
+            </div>
+        </div>
+        <div class="founder-info-text-container col-sm-6" id="">
+            <div class="row" id="founder-info-text">
+                <div class="founder-heading">
+                    @*<h3>About</h3>*@
+                    <h2>Matthew <span class="awesome">Nadeshot</span> Haag</h2>
+                </div>
+                <div class="founder-text">
+                    <p>
+                        Matthew "Nadeshot" Haag is the Founder & CEO of 100 Thieves. Matt leads the company’s creative,
+                        brand, and strategic direction, while also sitting on the company’s board of directors.
+                        Prior to founding 100 Thieves, Matt was one of the most decorated esports athletes
+                        in video game history. Originally a Call of Duty competitor, from 2011 - 2015 Matt was captain
+                        of OpTic Gaming, which he led to both an X Games gold medal and a Call of Duty World Championship. In 2014, Matt was named Esports Athlete of the Year.
+                        <br />
+                        <br />
+                        After retiring from competitive play, Matt built some of the most popular gaming channels on Twitch and Youtube, and was named Forbes 30 under 30 for his success as an entrepreneur and content creator. In 2017, Matt founded 100 Thieves to pursue his passions in competitive gaming, entertainment, and apparel.
+                        <br />
+                        <br />
+                        Matt grew up in Chicago, Illinois where he attended college and was working at McDonald’s
+                        before leaving both to pursue his career as a professional gamer.
+                        His biggest inspiration came from his father, who taught him that nothing in life comes easy,
+                        contributing to 100 Thieves’ motto: “Take what's not given.” Matt is based in Los Angeles.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="owners">
+    
+
+    <div class="container-fluid owner-columns">
+        <div class="rae">
+            <div class="rae-left-column col-sm-6">
+                <div class="rae-content">
+                    <h2>Rachel <span class="awesome">Valkyrae </span>Hofstetter</h2>
+                    <p>
+                        Rachell Hofstetter (born January 8, 1992), better known as Valkyrae, is an American Internet personality.
+                        She is a co-owner of the gaming organization 100 Thieves and has been YouTube's
+                        most-watched female streamer since 2020.
+                        <br />
+                        <br />
+                        Hofstetter began streaming on Twitch in 2015.
+                        She had her breakthrough by playing the competitive online game
+                        Fortnite in 2018 and joined 100 Thieves as their first female
+                        content creator. In 2020, she switched streaming platforms by
+                        signing an exclusive contract with YouTube. Later that year,
+                        she saw significant follower growth and reached her peak viewership
+                        when playing the online social deduction game Among Us, which led
+                        to her winning the Game Award for "Content Creator of the Year"
+                        and the Streamy Award for best live streamer.
+                        She was also named "Gaming Creator of the Year" by Adweek in 2021
+                        and was included on Forbes' 30 Under 30 list in 2022.
+                    </p>
+                </div>
+                
+            </div>
+            <div class="rae-right-column col-sm-6">
+                
+            </div>
+        </div>
+
+        <div class="courage">
+            <div class="courage-left-column col-sm-6">
+                
+            </div>
+            <div class="courage-right-column col-sm-6">
+                <div class="courage-content">
+                    <h2>Jack <span class="awesome">Courage </span>Dunlop</h2>
+                    <p>
+                        Jack Dunlop (born April 23, 1994), better known as CouRageJD or CouRage, 
+                        is an American YouTuber and streamer. He streams his gaming experiences 
+                        live on YouTube. 
+                        <br />
+                        <br />
+                        On May 28, 2019, Dunlop was announced as a content creator for and
+                        official member of esports organization 100 Thieves. 
+                        On April 7, 2021, Dunlop was announced as a co-owner of 100 Thieves 
+                        alongside Hofstetter. He is also a content creator for and co-owner of
+                        100 Thieves, a lifestyle brand and esports organization.
+
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="divider">
+        <div class="inner-divider"></div>
+        <div class="owner-heading col-lg-12">
+            <h2>Our Team </h2>
+        </div>
+        <div class="inner-divider"></div>
+    </div>
+</section>
+
+@*<section class="team">
+    <div class="row">
+  <div class="example-1 card">
+    <div class="wrapper">
+      <div class="date">
+        <span class="day">12</span>
+        <span class="month">Aug</span>
+        <span class="year">2016</span>
+      </div>
+      <div class="data">
+        <div class="content">
+          <span class="author">Jane Doe</span>
+          <h1 class="title"><a href="#">Everything You Need to Know About Gold Medals</a></h1>
+          <p class="text">Olympic gold medals contain only about 1.34 percent gold, with the rest composed of sterling silver.</p>
+          <label for="show-menu" class="menu-button"><span></span></label>
+        </div>
+        <input type="checkbox" id="show-menu" />
+        <ul class="menu-content">
+          <li>
+            <a href="#" class="fa fa-bookmark-o"></a>
+          </li>
+          <li><a href="#" class="fa fa-heart-o"><span>47</span></a></li>
+          <li><a href="#" class="fa fa-comment-o"><span>8</span></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="example-2 card">
+    <div class="wrapper">
+      <div class="header">
+        <div class="date">
+          <span class="day">12</span>
+          <span class="month">Aug</span>
+          <span class="year">2016</span>
+        </div>
+        <ul class="menu-content">
+          <li>
+            <a href="#" class="fa fa-bookmark-o"></a>
+          </li>
+          <li><a href="#" class="fa fa-heart-o"><span>18</span></a></li>
+          <li><a href="#" class="fa fa-comment-o"><span>3</span></a></li>
+        </ul>
+      </div>
+      <div class="data">
+        <div class="content">
+          <span class="author">Jane Doe</span>
+          <h1 class="title"><a href="#">Stranger Things: The sound of the Upside Down</a></h1>
+          <p class="text">The antsy bingers of Netflix will eagerly anticipate the digital release of the Survive soundtrack, out today.</p>
+          <a href="#" class="button">Read more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>*@
+
+<section class="team-slider">
+
+    <div class="container">
+        <div class="row" id="slider-text">
+            <div class="col-md-6">
+                <h2>League of Legends</h2>
+            </div>
+        </div>
+    </div>
+
+    <!-- Item slider-->
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="carousel carousel-showmanymoveone slide" id="itemslider">
+                    <div class="carousel-inner">
+
+                        <div class="item active">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="/images/100t-lol-bjergsen.jpg" class="img-responsive center-block"></a>
+                                <h4 class="text-center">MAYORAL SUKNJA</h4>
+                                <h5 class="text-center">200,00 TK</h5>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src=" /images/100t-lol-closer.jfif" class="img-responsive center-block"></a>
+                                <h4 class="text-center">MAYORAL KOŠULJA</h4>
+                                <h5 class="text-center">800 TK</h5>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="/images/100t-lol-doublelift.jfif" class="img-responsive center-block"></a>
+                                <span class="badge">10%</span>
+                                <h4 class="text-center">PANTALONE TERI 2</h4>
+                                <h5 class="text-center">4000,00 TK</h5>
+                                <h6 class="text-center">5000,00 TK</h6>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="/images/100t-lol-tenacity.jfif " class="img-responsive center-block"></a>
+                                <h4 class="text-center">CVETNA HALJINA</h4>
+                                <h5 class="text-center">4000,00 RSD</h5>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="/images/100t-lol-busio.jfif" class="img-responsive center-block"></a>
+                                <h4 class="text-center">MAJICA FOTO</h4>
+                                <h5 class="text-center">40,00 TK</h5>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div id="slider-control">
+                        <a class="left carousel-control" href="#itemslider" data-slide="prev"><img src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_402-512.png" alt="Left" class="img-responsive"></a>
+                        <a class="right carousel-control" href="#itemslider" data-slide="next"><img src="http://pixsector.com/cache/81183b13/avcc910c4ee5888b858fe.png" alt="Right" class="img-responsive"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Item slider end-->
+</section>
+
+<section class="team-slider">
+
+    <div class="container">
+        <div class="row" id="slider-text">
+            <div class="col-md-6">
+                <h2>Valorant</h2>
+            </div>
+        </div>
+    </div>
+
+    <!-- Item slider-->
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="carousel carousel-showmanymoveone slide" id="itemslider">
+                    <div class="carousel-inner">
+
+                        <div class="item active">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="/images/100t-cryo.png" class="img-responsive center-block"></a>
+                                <h4 class="text-center">MAYORAL SUKNJA</h4>
+                                <h5 class="text-center">200,00 TK</h5>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src=" /images/100t-stellar.png" class="img-responsive center-block"></a>
+                                <h4 class="text-center">MAYORAL KOŠULJA</h4>
+                                <h5 class="text-center">800 TK</h5>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="/images/100t-derrek.png" class="img-responsive center-block"></a>
+                                <span class="badge">10%</span>
+                                <h4 class="text-center">PANTALONE TERI 2</h4>
+                                <h5 class="text-center">4000,00 TK</h5>
+                                <h6 class="text-center">5000,00 TK</h6>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="/images/100t-asuna.png" class="img-responsive center-block"></a>
+                                <h4 class="text-center">CVETNA HALJINA</h4>
+                                <h5 class="text-center">4000,00 RSD</h5>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <a href="#"><img src="/images/100t-bang.png" class="img-responsive center-block"></a>
+                                <h4 class="text-center">MAJICA FOTO</h4>
+                                <h5 class="text-center">40,00 TK</h5>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div id="slider-control">
+                        <a class="left carousel-control" href="#itemslider" data-slide="prev"><img src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_402-512.png" alt="Left" class="img-responsive"></a>
+                        <a class="right carousel-control" href="#itemslider" data-slide="next"><img src="http://pixsector.com/cache/81183b13/avcc910c4ee5888b858fe.png" alt="Right" class="img-responsive"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Item slider end-->
+</section>
+
+
+    
+<section>
+    <article class="flow">
+        <h1>Our Team</h1>
+        <p>Hover or focus over each card to see the person’s job title slide in and the colour treatment change.</p>
+        <div class="team">
+            <ul class="auto-grid" role="list">
+                <li>
+                    <a href="https://swop.link/cool" target="blank" class="profile">
+                        <h2 class="profile__name">Anita Simmons</h2>
+                        <p>Founder</p>
+                        <img alt="Anita Simmons" src="https://source.unsplash.com/BhcutpohYwg/800x800" />
+                    </a>
+                </li>
+                <li>
+                    <a href="https://swop.link/cool" target="_blank" class="profile">
+                        <h2 class="profile__name">Celina Harris</h2>
+                        <p>Creative Director</p>
+                        <img alt="Profile shot for Celina Harris" src="https://source.unsplash.com/j5KAuRrYX7g/800x800" />
+                    </a>
+                </li>
+                <li>
+                    <a href="https://swop.link/cool" target="_blank" class="profile">
+                        <h2 class="profile__name">Ruby Morris</h2>
+                        <p>Technical Lead</p>
+                        <img alt="Profile shot for Ruby Morris" src="https://source.unsplash.com/pQyIutdScOY/800x800" />
+                    </a>
+                </li>
+                <li>
+                    <a href="https://swop.link/cool" target="_blank" class="profile">
+                        <h2 class="profile__name">Nicholas Castro</h2>
+                        <p>Designer</p>
+                        <img alt="Profile shot for Nicholas Castro" src="https://source.unsplash.com/55JRsxcAiWE/800x800" />
+                    </a>
+                </li>
+                <li>
+                    <a href="https://swop.link/cool" target="_blank" class="profile">
+                        <h2 class="profile__name">Marc Dixon</h2>
+                        <p>Developer</p>
+                        <img alt="Profile shot for Marc Dixon" src="https://source.unsplash.com/5wn6DeAEcmE/800x800" />
+                    </a>
+                </li>
+                <li>
+                    <a href="https://swop.link/cool" target="_blank" class="profile">
+                        <h2 class="profile__name">Chad Chadson</h2>
+                        <p>Intern</p>
+                        <img alt="Profile shot for Chad" src="https://source.unsplash.com/7jCYw6a2Wao/800x800" />
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </article>
+</section>
+
+<section>
+
+   
+
+</section>
+    
+
+    
+
+
+@section Scripts {
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/multicard.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    
+    <script src="https://unpkg.com/vue@3.0.0-alpha.10/dist/vue.runtime.global.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js?r=5426"></script>
+}
+
