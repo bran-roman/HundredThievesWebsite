@@ -162,5 +162,10 @@ namespace HundredThievesWebsite.Controllers
 
         public IActionResult OnGetPartial() =>
             PartialView("_Index", "_Create");
+
+        public IActionResult RMBlog()
+        {
+            return View();
+        }
     }
 }
