@@ -45,7 +45,7 @@ function newFunction() {
                                 s.tabs[currentIdx].classList.add("active");
                             }
                         });
-                    });
+                    });                                  
                 }
             }
         };

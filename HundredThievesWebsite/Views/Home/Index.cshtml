@@ -11,80 +11,507 @@
 
 @*<a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>*@
 
-<section class="landing-page-hover-slider">
-	<div class="flex-container">
-		<div class="spinner">
-			<p>
-				<div class="cube1"></div>
-				<div class="cube2"></div>
-				Loading...
-				@*<div class="progress">
-				<div class="progress-value"></div>
+<section class="home-index">
+
+	<div class="container-fluid" id="loading-container">
+		<div class="pre-loader block">
+			<div class="loader-wrapper">
+				<div class="loader"></div>
+			</div>
+		</div>
+		
+		<aside>
+			<div class="marquee">
+				<div class='line'>
+					<p class='text'>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+						We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>We Are <span class="highlight">Thieves </span>
+
+					</p>
+				</div>
+				
+			</div>
+		</aside>
+			
+		<div class="sidebar container" id="home-tabs-container">
+			<div class="sidebar-nav">
+				<div class="home-logo">
+					@*<a href="#">
+					<img src="/images/whitelogo.png" id="home-logo-nav-image" />
+					</a>*@
+					"Home"
+				</div>
+			</div>
+			<ul itemscope itemtype="http://schema.org/Blog" class="home-tabs">
+				<div class="home-tab-heading-container">
+					<div class="first">
+						featured apparel
+					</div>
+					<div class="second">
+						featured apparel
+					</div>
+				</div>
+				<li class="preview" data-index="">
+					
+						
+					<div class="product" id="home-product">
+						<div class="row collection-product-container">
+							<div class="col-sm-6">
+								<img src="~/images/blanket.jpg" id="featured-image"/>
+							</div>
+							<div class="col-sm-6">
+								<div class="collection-product-inner-container">
+									<div class="collection-product-heading-container">
+										<h4 class="collection-product-heading">Selected Product</h4>
+
+									</div>
+									<div class="collection-product-name-container">
+										<h2 class="collection-product-name">Throw Blanket</h2>
+									</div>
+									<div class="collection-product-description-container">
+										<h3 class="collection-product-description">
+											This is where the product description will go for
+											the selected product from the collection.
+ 										</h3>
+									</div>
+									<div class="collection-name-container">
+										<h5 class="collection-name">
+											Spring Bloom Collection
+										</h5>
+										<h5 class="collection-year">
+											2023
+										</h5>
+
+									</div>
+									
+								</div>
+								
+							</div>
+						</div>
+
+						<div class="home-product-container">
+							<div class="item active">
+								<div class="">
+									<a href="#"><img src="/images/spring6.jpg" class="img-responsive center-block"></a>
+									<h4 class="text-center">Flannel Button-Up - Khaki</h4>
+									<h5 class="text-center">$90</h5>
+								</div>
+							</div>
+
+							<div class="item">
+								<div class="">
+									<a href="#"><img src="/images/blanket.jpg" class="img-responsive center-block"></a>
+									<h4 class="text-center">Throw Blanket</h4>
+									<h5 class="text-center">$120</h5>
+								</div>
+							</div>
+
+							<div class="item">
+								<div class="">
+									<a href="#"><img src="/images/vinny3.jpg" class="img-responsive center-block"></a>
+									<h4 class="text-center">Waxed Jacket - Olive</h4>
+									<h5 class="text-center">$155</h5>
+
+								</div>
+							</div>
+						</div>
+
+						@*<div class="grid-container">
+							<div class="product-list">
+
+
+								<div class="profile">
+									<div class="profile-content">
+										<a href="https://swop.link/cool" target="_blank">
+											<h2 class="profile__name">Flannel Button-Up</h2>
+											<p>$90</p>
+											<img alt="Anita Simmons" src="/images/spring6.jpg" />
+										</a>
+									</div>
+									@*<div class="profile-subtext">
+										<h4 class="text-center">MAYORAL SUKNJA</h4>
+										<h5 class="text-center">200,00 TK</h5>
+									</div>
+										
+								</div>
+								<div class="profile">
+									<a href="https://swop.link/cool" target="_blank">
+										<h2 class="profile__name">Throw Blanket</h2>
+										<p>$120</p>
+										<img alt="Profile shot for Celina Harris" src="/images/blanket.jpg" />
+									</a>
+								</div>
+									
+								<div class="profile">
+									<a href="https://swop.link/cool" target="_blank">
+										<h2 class="profile__name">Waxed Jacket</h2>
+										<p>$155</p>
+										<img alt="Profile shot for Ruby Morris" src="/images/vinny3.jpg" />
+									</a>
+								</div>
+									
+										
+
+							</div>
+						</div>
+						<div class="home-tab-text">
+							<h2 class="home-tab-heading">Spring Bloom Collection Out Now</h2>
+							<p class="home-tab-subtext" id="home-apparel-text">
+								100 Thieves ("Hundred Thieves") is a premium lifestyle brand and gaming organization.
+								Built at the intersection of competitive gaming, entertainment, and apparel, 100 Thieves was founded in 2017 by Matthew "Nadeshot" Haag, the former OpTic Gaming Call of Duty captain, X Games gold medalist,
+								and 2014 Esports Athlete of the Year. After retiring from competitive play, Matt founded 100 Thieves as a creative outlet for his entrepreneurial passions.
+								<br />
+								<br />
+								In its first two years, 100 Thieves has won multiple esports major championships in Call of Duty, made the League of Legends and Fortnite World Championships,
+								launched the top gaming podcasts on iTunes, sold out over a dozen apparel drops, and is supported by major partners such as Cash App, Chipotle, Rocket Mortgage, Lexus, and Rockstar.
+								The company is currently valued at $460M and has raised a total of $120M from investors including Drake, Scooter Braun, Cleveland Cavaliers Owner & Quicken Loans Chairman Dan Gilbert,
+							</p>
+						</div>*@
+
+
+					</div>
+				</li>
+					
+				<li class="preview" data-index="">
+					<div class="product" id="home-product">
+						<h2>Esports News</h2>
+						<div class="home-product-img-container">
+							<img class="home-product-image" src="/images/100t-valorant5.jpg" id="home-esports-image" />
+						</div>
+						<div class="home-tab-text" id="home-esports-text">
+							<h2 class="home-tab-heading">Last stand for VCT Playoffs</h2>
+							<p class="home-tab-subtext">
+								100 Thieves ("Hundred Thieves") is a premium lifestyle brand and gaming organization.
+								Built at the intersection of competitive gaming, entertainment, and apparel, 100 Thieves was founded in 2017 by Matthew "Nadeshot" Haag, the former OpTic Gaming Call of Duty captain, X Games gold medalist,
+								and 2014 Esports Athlete of the Year. After retiring from competitive play, Matt founded 100 Thieves as a creative outlet for his entrepreneurial passions.
+								<br />
+								<br />
+								In its first two years, 100 Thieves has won multiple esports major championships in Call of Duty, made the League of Legends and Fortnite World Championships,
+								launched the top gaming podcasts on iTunes, sold out over a dozen apparel drops, and is supported by major partners such as Cash App, Chipotle, Rocket Mortgage, Lexus, and Rockstar.
+								The company is currently valued at $460M and has raised a total of $120M from investors including Drake, Scooter Braun, Cleveland Cavaliers Owner & Quicken Loans Chairman Dan Gilbert,
+							</p>
+						</div>
+					</div>
+				</li>
+				<li class="preview" data-index="">
+					<div class="product" id="home-product">
+						<h2>Higround News</h2>
+						<div class="home-product-img-container" id="higround-img-container">
+							<img class="home-product-image" src="/images/higround-streetfighter2.jfif" id="home-higround-image" />
+							<img class="home-product-image" src="/images/higround-streetfighter.jfif" id="home-higround-image" />
+						</div>
+						<div class="home-tab-text" id="home-higround-text">
+							<h2 class="home-tab-heading">Street Fighter Collection Out Now</h2>
+							<p class="home-tab-subtext">
+								100 Thieves ("Hundred Thieves") is a premium lifestyle brand and gaming organization.
+								Built at the intersection of competitive gaming, entertainment, and apparel, 100 Thieves was founded in 2017 by Matthew "Nadeshot" Haag, the former OpTic Gaming Call of Duty captain, X Games gold medalist,
+								and 2014 Esports Athlete of the Year. After retiring from competitive play, Matt founded 100 Thieves as a creative outlet for his entrepreneurial passions.
+								<br />
+								<br />
+								In its first two years, 100 Thieves has won multiple esports major championships in Call of Duty, made the League of Legends and Fortnite World Championships,
+								launched the top gaming podcasts on iTunes, sold out over a dozen apparel drops, and is supported by major partners such as Cash App, Chipotle, Rocket Mortgage, Lexus, and Rockstar.
+								The company is currently valued at $460M and has raised a total of $120M from investors including Drake, Scooter Braun, Cleveland Cavaliers Owner & Quicken Loans Chairman Dan Gilbert,
+							</p>
+						</div>
+					</div>
+				</li>
+				<li class="preview" data-index="">
+					<div class="product" id="home-product">
+						<h2>Featured Series</h2>
+						<div class="home-product-img-container" id="higround-spotlight-container">
+							<img class="home-product-image" src="/images/spotlight.jpg" id="home-spotlight-image" />
+						</div>
+						<div class="home-tab-text" id="home-spotlight-text">
+							<h2 class="home-tab-heading">Spotlight Series</h2>
+							<p class="home-tab-subtext">
+								100 Thieves ("Hundred Thieves") is a premium lifestyle brand and gaming organization.
+								Built at the intersection of competitive gaming, entertainment, and apparel, 100 Thieves was founded in 2017 by Matthew "Nadeshot" Haag, the former OpTic Gaming Call of Duty captain, X Games gold medalist,
+								and 2014 Esports Athlete of the Year. After retiring from competitive play, Matt founded 100 Thieves as a creative outlet for his entrepreneurial passions.
+								<br />
+								<br />
+								In its first two years, 100 Thieves has won multiple esports major championships in Call of Duty, made the League of Legends and Fortnite World Championships,
+								launched the top gaming podcasts on iTunes, sold out over a dozen apparel drops, and is supported by major partners such as Cash App, Chipotle, Rocket Mortgage, Lexus, and Rockstar.
+								The company is currently valued at $460M and has raised a total of $120M from investors including Drake, Scooter Braun, Cleveland Cavaliers Owner & Quicken Loans Chairman Dan Gilbert,
+							</p>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+		
+		
+		
+
+
+		<div class="clipper-left">
+			<div class="loader-text">
+				<img src="~/images/whitelogo.png" />
+			</div>
+		</div>
+		<div class="clipper-right">
+			<div class="loader-text">
+				"Home"
+			
+			</div>
+		</div>
+		<div class="site-content">
+			<div class="site-nav">
+				<div class="site-logo"><a href="#">Est.2017</a></div>
+				<div class="menu-toggle">
+					@*Menu
+					<span class="nav-span" onclick="openNav()">☰</span>*@
+				</div>
+			</div>
+
+			<div class="video-container" id="video-container">
+				<video id="loading-video" src="/images/100Thieves x Gucci 1080.mp4" loop muted autoplay></video>
+			
+			</div>
+			@*<div class="figure-containers">
+				<figure class="absolute-bg preview__img" id="">
+					<a href="https://100thieves.com">
+						<img class="home-tab-image" src="~/images/brookevinny.jpg" />
+					</a>
+				</figure>
+				<figure class="absolute-bg preview__img" id="HigroundNewsPost">
+					<img class="home-tab-image" src="~/images/brookevinny.jpg" />
+				</figure>
+				<figure class="absolute-bg preview__img" id="CreatorNewsPost">
+					<img class="home-tab-image" src="~/images/brookevinny.jpg" />
+
+
+				</figure>
+				<figure class="absolute-bg preview__img" id="ApparelNewsPost">
+					<img class="home-tab-image" src="~/images/brookevinny.jpg" />
+				</figure>
+
+				<figure class="absolute-bg preview__img" id="BrandNews"></figure>
+			</div>*@
+			<div class="play">
+				@*<div class="play-icon">
+					<ion-icon name="play-sharp"></ion-icon>
 				</div>*@
-			</p>
-		</div>
-		<div class="flex-slide home">
-			<div class="home-content">
-				<div class="flex-title flex-title-home">Apparel</div>
-				<div class="flex-about flex-about-home">Shop Now</div>
-			</div>
-
-		</div>
-		<div class="flex-slide about">
-			<div class="home-content">
-				<div class="flex-title">About</div>
-				<div class="flex-about">
-					<a class="nav-link" asp-area="" asp-controller="Pages" asp-action="about">Who are we</a>
+				<div class="nav-logo">
+					<a asp-area="" asp-controller="Home" asp-action="Index">
+						<img src="/images/100t-logo2.png">
+					</a>
 				</div>
 			</div>
-
-		</div>
-		<div class="flex-slide esports">
-			<div class="home-content">
-				<div class="flex-title">Esports</div>
-				<div class="flex-about">Latest news</div>
-			</div>
-
-		</div>
-		<div class="flex-slide work">
-			<div class="home-content">
-				<div class="flex-title">Highground</div>
-				<div class="flex-about">
-					Shop Now
-				</div>
-			</div>
-
-		</div>
-		<div class="flex-slide contact">
-			<div class="home-content">
-				<div class="flex-title">Spotlight</div>
-				<div class="flex-about">
-					@*<p>Use the contact form below</p>
-					<form class="contact-form">
-					<p>Email <input type="text" name="email"></p>
-					<p>Comment <textarea type="text" name="comment" row="5"></textarea></p>
-					<p><input type="submit" name="email" value="Send Message"></p>
-					</form>*@
-					<p>Our commitment to empowering <br />women creators using the 100 Thieves platform</p>
-				</div>
-			</div>
-
+			
+			
 		</div>
 	</div>
+
+	
 </section>
+@*<div class="container-fluid" id="main-container">
+	
+	<section class="landing-page-hover-slider">
+		<div class="landing-page-wrap">
+			<div class="landing-page-wrap-bg">
+				@*<img src="~/images/100t-studio2.jpeg" />
+			</div>
+			<div class="flex-container">
+				<div class="spinner">
+					<p>
+						<div class="cube1"></div>
+						<div class="cube2"></div>
+						Loading...
+						<div class="progress">
+						<div class="progress-value"></div>
+						</div>
+					</p>
+				</div>
+				<div class="flex-slide home">
+					<div class="home-content">
+						<div class="flex-title flex-title-home">Apparel<span class="flex-title-text"></span></div>
+						<div class="flex-about flex-about-home">Shop Now</div>
+					</div>
+
+				</div>
+				<div class="flex-slide about">
+					<div class="home-content">
+						<div class="flex-title">About</div>
+						<div class="flex-about">
+							<a class="nav-link" asp-area="" asp-controller="Pages" asp-action="about">Who are we</a>
+						</div>
+					</div>
+
+				</div>
+				<div class="flex-slide esports">
+					<div class="home-content">
+						<div class="flex-title">Esports</div>
+						<div class="flex-about">Latest news</div>
+					</div>
+
+				</div>
+				<div class="flex-slide work">
+					<div class="home-content">
+						<div class="flex-title">Highground</div>
+						<div class="flex-about">
+							Shop Now
+						</div>
+					</div>
+
+				</div>
+				<div class="flex-slide contact">
+					<div class="home-content">
+						<div class="flex-title">Spotlight</div>
+						<div class="flex-about" id="flex-about-spotlight">
+							@*<p>Use the contact form below</p>
+							<form class="contact-form">
+							<p>Email <input type="text" name="email"></p>
+							<p>Comment <textarea type="text" name="comment" row="5"></textarea></p>
+							<p><input type="submit" name="email" value="Send Message"></p>
+							</form>
+							<p>Our commitment to empowering women creators using the 100 Thieves platform</p>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		
+	</section>
+
+	<section>
+		
+		@*<div class="landing-page-wrap">
+			<div class="landing-page-wrap-bg">
+				<img src="~/images/100t-studio2.jpeg" />
+			</div>
+				<div class="flex-container">
+				<div id="container">
+					<div class="_content active home" data-slide="1">
+						<div class="info-logo"><i class="material-icons">Home</i></div>
+						<div class="info-wrapper">
+							<h3 class="slidetitle">Spring Bloom Collection Out Now <span>(lorem)</span></h3>
+							<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias numquam ipsum possimus nihil velit, recusandae. Molestias, nobis consectetur facilis officiis, sint earum inventore. Voluptas tempore quibusdam molestiae nostrum id, dolorum?</p>
+							<div class="product__detail">
+								<span class="preview__more">Read More</span>
+							</div>
+						</div>
+						<div class="bottom-divider"></div>
+					</div>
+					<div class="_content about" data-slide="2">
+						<div class="info-logo"><i class="material-icons">About</i></div>
+						<div class="info-wrapper">
+							<h3 class="slidetitle">LOREM IPSUM <span>(lorem)</span></h3>
+							<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias numquam ipsum possimus nihil velit, recusandae. Molestias, nobis consectetur facilis officiis, sint earum inventore. Voluptas tempore quibusdam molestiae nostrum id, dolorum?</p>
+							<div class="product__detail">
+								<span class="preview__more">Read More</span>
+							</div>
+						</div>
+						<div class="bottom-divider"></div>
+					</div>
+					<div class="_content esports" data-slide="3">
+						<div class="info-logo"><i class="material-icons">Esports</i></div>
+						<div class="info-wrapper">
+							<h3 class="slidetitle">LOREM IPSUM <span>(lorem)</span></h3>
+							<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias numquam ipsum possimus nihil velit, recusandae. Molestias, nobis consectetur facilis officiis, sint earum inventore. Voluptas tempore quibusdam molestiae nostrum id, dolorum?</p>
+							<div class="product__detail">
+								<span class="preview__more">Read More</span>
+							</div>
+						</div>
+						<div class="bottom-divider"></div>
+					</div>
+					<div class="_content work" data-slide="4" >
+						<div class="info-logo"><i class="material-icons">Higround</i></div>
+						<div class="info-wrapper">
+							<h3 class="slidetitle">LOREM IPSUM <span>(lorem)</span></h3>
+							<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias numquam ipsum possimus nihil velit, recusandae. Molestias, nobis consectetur facilis officiis, sint earum inventore. Voluptas tempore quibusdam molestiae nostrum id, dolorum?</p>
+							<div class="product__detail">
+								<span class="preview__more">Read More</span>
+							</div>
+						</div>
+						<div class="bottom-divider"></div>
+					</div>
+					<div class="_content contact" data-slide="5">
+						<div class="info-logo"><i class="material-icons">Spotlight</i></div>
+						<div class="info-wrapper">
+							<h3 class="slidetitle">LOREM IPSUM <span>(lorem)</span></h3>
+							<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias numquam ipsum possimus nihil velit, recusandae. Molestias, nobis consectetur facilis officiis, sint earum inventore. Voluptas tempore quibusdam molestiae nostrum id, dolorum?</p>
+							<div class="product__detail">
+								<span class="preview__more">Read More</span>
+							</div>
+						</div>
+						<div class="bottom-divider"></div>
+					</div>
+					@*<div class="_content" data-slide="6" data-bg="http://wallpapercave.com/wp/wp1853043.jpg">
+						<div class="info-logo"><i class="material-icons">details</i></div>
+						<div class="info-wrapper">
+							<h3 class="slidetitle">LOREM IPSUM <span>(lorem)</span></h3>
+							<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias numquam ipsum possimus nihil velit, recusandae. Molestias, nobis consectetur facilis officiis, sint earum inventore. Voluptas tempore quibusdam molestiae nostrum id, dolorum?</p>
+						</div>
+						<div class="bottom-divider"></div>
+					</div>
+					<div class="_content" data-slide="7" data-bg="https://lh3.ggpht.com/jDwsTAjqlTSWMEYm5Pb8cy_9faXdOYal01TMkj6b-nsmS1HIWuehzHyp5V2dj5P4K7w=h900">
+						<div class="info-logo"><i class="material-icons">cloud_download</i></div>
+						<div class="info-wrapper">
+							<h3 class="slidetitle">LOREM IPSUM <span>(lorem)</span></h3>
+							<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias numquam ipsum possimus nihil velit, recusandae. Molestias, nobis consectetur facilis officiis, sint earum inventore. Voluptas tempore quibusdam molestiae nostrum id, dolorum?</p>
+						</div>
+						<div class="bottom-divider"></div>
+					</div>
+					<div class="_content" data-slide="8" data-bg="http://zyzixun.net/blog/frozen-beauty-of-lofoten-archipelago-in-norway/lg_31838291_IMG_2840.jpg">
+						<div class="info-logo"><i class="material-icons">show_chart</i></div>
+						<div class="info-wrapper">
+							<h3 class="slidetitle">LOREM IPSUM <span>(lorem)</span></h3>
+							<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias numquam ipsum possimus nihil velit, recusandae. Molestias, nobis consectetur facilis officiis, sint earum inventore. Voluptas tempore quibusdam molestiae nostrum id, dolorum?</p>
+						</div>
+						<div class="bottom-divider"></div>
+					</div>
+					<div class="playbutton">
+						<!--i.fa.fa-play.fa-2x.fa-stack-2x-->
+						<!--i.fa.fa-pause.fa-2x.fa-stack-x--><i class="material-icons play">play_arrow</i><i class="material-icons pause">pause</i>
+					</div>
+					<div class="slide-left"><i class="material-icons"></i></div>
+					<div class="slide-right"><i class="material-icons"></i></div>
+				</div>
+
+			</div>
+		</div>
+
+		
+	</section>
+</div*@
+
 
 
 @section Scripts {
-	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	@*<script src="~/lib/jquery/dist/jquery.min.js"></script>
 	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 	<script src="~/js/site.js" asp-append-version="true"></script>
 	<script type="module">
 		import CodePenVueComponent from "../../wwwroot/js/flexslider.js";
 		Vue.createApp(CodePenVueComponent).mount('#app');
-	</script>
-	<script src="~/js/flexslider.js"></script>
+	</script>*@
+
+	@*<script src="~/js/sResponseSlider.js"></script>*@
+	@*<script src='https://cdnjs.cloudflare.com/ajax/libs/seedrandom/2.4.3/seedrandom.min.js'></script><script src="./script.js"></script>*@
+
+	<!-- gsap -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
+	<!-- ion icons -->
+	<script type="module"
+			src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+	<script nomodule
+			src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+	@*<script src="~/js/homeLoading.js"></script>*@
+	@*<script src="~/js/flexslider.js"></script>*@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+	@*<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>*@
 	<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js?r=5426"></script>
 	<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/769286/jquery.waitforimages.min.js"></script>
 	<script src="https://www.googletagmanager.com/gtag/js?id=UA-172001562-1"></script>

@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\roman\OneDrive\Documents\GitHub\Portfolio Projects\HundredThievesWebsite\HundredThievesWebsite
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/roman/OneDrive/Documents/GitHub/Portfolio Projects/HundredThievesWebsite/HundredThievesWebsite/Areas/Blog/Views/Blog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ1xWaWV3c1xCbG9nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/roman/OneDrive/Documents/GitHub/Portfolio Projects/HundredThievesWebsite/HundredThievesWebsite/Areas/Blog/Views/Blog/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ1xWaWV3c1xCbG9nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/roman/OneDrive/Documents/GitHub/Portfolio Projects/HundredThievesWebsite/HundredThievesWebsite/Areas/Blog/Views/Blog/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ1xWaWV3c1xCbG9nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/roman/OneDrive/Documents/GitHub/Portfolio Projects/HundredThievesWebsite/HundredThievesWebsite/Areas/Blog/Views/Blog/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ1xWaWV3c1xCbG9nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/roman/OneDrive/Documents/GitHub/Portfolio Projects/HundredThievesWebsite/HundredThievesWebsite/Areas/Blog/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQmxvZ1xWaWV3c1xCbG9nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/roman/OneDrive/Documents/GitHub/Portfolio Projects/HundredThievesWebsite/HundredThievesWebsite/Views/Blog/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
