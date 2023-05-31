@@ -44,4 +44,53 @@ function newFunction() {
             amount: 0.5,
         },
     });
+    gsap.from(".home-tab-heading-container", 1, {
+        opacity: 0,
+        delay: 3.5,
+        x: 40,
+        ease: "power4.inOut",
+        stagger: {
+            amount: 1,
+        },
+    });
+    gsap.from(".preview", .8, {
+        opacity: 0,
+        delay: 3.8,
+        x: 40,
+        ease: "power4.inOut",
+        stagger: {
+            amount: 1,
+        },
+    });
+    gsap.from("#preview-images", 2, {
+        transform: 'translateX(-50vw)',
+        opacity: 0,
+        delay: 2,
+        x: 40,
+        ease: "power4.inOut",
+        stagger: {
+            amount: 1,
+        },
+    });
+
+    gsap.from(".tabs", 1, {
+        //transform: 'translateX(-50vw)',
+        opacity: 0,
+        delay: 3.5,
+        x: 40,
+        ease: "power4.inOut",
+        stagger: {
+            amount: 1,
+        },
+    });
+
+    gsap.from(".product", .2, {
+  
+        delay: .2,
+
+        ease: "power4.inOut",
+        stagger: {
+            amount: 1,
+        },
+    });
 }

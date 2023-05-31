@@ -8,25 +8,53 @@
 }
 
 <div class="loading-screen" id="blog-loading">
-    <div class="background-video-overlay">
-        <video id="background-video" src="~/images/100Thieves x Gucci 1080.mp4" type="video/mp4" playsinline autoplay muted loop></video>
 
+    <div class="pre-loader block">
+        <div class="loader-wrapper">
+            <div class="loader"></div>
+        </div>
     </div>
+    <div class="clipper-left">
+        <div class="loader-text">
+            <img src="~/images/whitelogo.png" />
+        </div>
+    </div>
+    <div class="clipper-right">
+        <div class="loader-text">
+            "About"
 
-    <div class="intro">
-        <h1 class="intro-title">Loading</h1>
-        <div class="progress">
-            <div class="progress-value"></div>
         </div>
     </div>
 </div>
+
+<section id="about-test">
+    <div class="blog-banner-text-container col-sm-4">
+        <h2 class="new-blog-heading-text">We Are Thieves</h2>
+        <h4 class="new-blog-subtext">
+            100 Thieves ("Hundred Thieves") is a premium lifestyle brand and gaming organization.
+            Built at the intersection of competitive gaming, entertainment, and apparel, 100 Thieves was founded in 2017 by Matthew "Nadeshot" Haag, the former OpTic Gaming Call of Duty captain, X Games gold medalist,
+            and 2014 Esports Athlete of the Year. After retiring from competitive play, Matt founded 100 Thieves as a creative outlet for his entrepreneurial passions.
+            <br />
+            <br />
+            In its first two years, 100 Thieves has won multiple esports major championships in Call of Duty, made the League of Legends and Fortnite World Championships,
+            launched the top gaming podcasts on iTunes, sold out over a dozen apparel drops, and is supported by major partners such as Cash App, Chipotle, Rocket Mortgage, Lexus, and Rockstar.
+            The company is currently valued at $460M and has raised a total of $120M from investors including Drake, Scooter Braun, Cleveland Cavaliers Owner & Quicken Loans Chairman Dan Gilbert,
+            Artist Capital Management, Ludlow Ventures, Green Bay Ventures, and Sequoia. 100 Thieves' mission is to give every gamer something to be proud of.
+        </h4>
+    </div>
+    <div class="blog-banner-container col-sm-8">
+        <img class="blog-banner" src="/images/la-thieves3.jfif" />
+    </div>
+
+
+</section>
 
 <section class="about-column landing-page-section">
     <div class="container-fluid">
 
     
         <div class="intro-section">
-
+            
             <!-- cursor -->
 
             @*<div class="wrap">
@@ -34,7 +62,7 @@
             </div>*@
             
             <!-- cursor ends -->
-            <div class="wrapper">
+            <div class="about-wrapper">
                 <!-- intro section starts -->
                     @*<div class="loading-screen">
                         <div class="intro">
@@ -47,7 +75,7 @@
                 <!-- intro section ends -->
                 <!-- content -->
 
-                    <div class="content" id="about-content">
+                    <div class="content">
                         <div class="logo">
                             <span></span>
                             <img src="/images/100_Thieves_logo.svg.png" />
@@ -58,7 +86,7 @@
                         <div class="overlay-text"> C | Emis | Ry </div>
 
 
-                        <div class="title content-text">
+                        <div class="about-title content-text">
                             <div class="title hero-title">
                                 <h1>About 100 Thieves</h1>
                             </div>
@@ -158,17 +186,17 @@
 
 <section class="founder">
     <div class="container-fluid" id="founder-info">
-        <div class="founder-img-content col-sm-6" id="">
+        <div class="founder-img-content col-sm-8" id="">
             <div class="founder-img">
                 @*<img src="~/images/nadeshot5.jpg" id="founder-img" />*@
             </div>
         </div>
-        <div class="founder-info-text-container col-sm-6" id="">
+        <div class="founder-info-text-container col-sm-4" id="">
             <div class="row" id="founder-info-text">
-                <div class="founder-heading">
+                <aside class="founder-heading">
                     @*<h3>About</h3>*@
                     <h2>Matthew <span class="awesome">Nadeshot</span> Haag</h2>
-                </div>
+                </aside>
                 <div class="founder-text">
                     <p>
                         Matthew "Nadeshot" Haag is the Founder & CEO of 100 Thieves. Matt leads the company’s creative,

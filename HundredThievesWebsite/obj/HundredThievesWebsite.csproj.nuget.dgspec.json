@@ -94,6 +94,10 @@
             "System.Web.Http.Common": {
               "target": "Package",
               "version": "[4.0.20126.16343, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.2.3, )"
             }
           },
           "imports": [

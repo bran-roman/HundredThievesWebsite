@@ -102,7 +102,7 @@ const _hoisted_6 = /*#__PURE__*/createElementVNode("img", {
   alt: "Listen on Spotify",
   width: "176",
   height: "64",
-  loading: "lazy"
+  loading: "lazy"                                                                        graphics card
 }, null, -1 /* HOISTED */);
 const _hoisted_7 = [
   _hoisted_6

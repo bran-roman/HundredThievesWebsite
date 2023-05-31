@@ -6,156 +6,17 @@
     //Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-@*<div class="loading-screen" id="blog-loading">
-    <div class="background-video-overlay">
-        <video id="background-video" src="~/images/100Thieves x Gucci 1080.mp4" type="video/mp4" playsinline autoplay muted loop></video>
 
-    </div>
+    @Html.RenderPartialAsync("_index");
 
-    <div class="intro">
-        <h1 class="intro-title">Loading</h1>
-        <div class="progress">
-            <div class="progress-value"></div>
-        </div>
-    </div>
-</div>*@
-<div class="container-fluid" id="loading-container">
-	@*<div class="pre-loader block">
-		<div class="loader-wrapper">
-			<div class="loader"></div>
-		</div>
-	</div>
-    <div class="clipper-left">
-        <div class="loader-text">
-            <img src="~/images/whitelogo.png" />
-        </div>
-    </div>
-    <div class="clipper-right">
-        <div class="loader-text">
-            "Home"
+       
+   
 
-        </div>
-    </div>
-
-	@*<div class="sidebar-nav">
-		<div class="home-logo">
-			<a href="#">
-				<img src="/images/whitelogo.png" id="home-logo-nav-image" />
-			</a>
-		</div>
-
-		<ion-icon name="chevron-down-sharp"></ion-icon>
-	</div>
-
-
-
-
-	<div class="clipper-left">
-		<div class="loader-text">
-			<img src="~/images/whitelogo.png" />
-		</div>
-	</div>
-	<div class="clipper-right">
-		<div class="loader-text">
-			"Home"
-
-		</div>
-	</div>
-	<div class="site-content">
-		<div class="site-nav">
-			<div class="site-logo"><a href="#">Est.2017</a></div>
-			<div class="menu-toggle">
-				@*Menu
-				<span class="nav-span" onclick="openNav()">☰</span>
-			</div>
-		</div>
-
-		<div class="video-container" id="video-container">
-			<video id="loading-video" src="/images/100Thieves x Gucci 1080.mp4" loop muted autoplay></video>
-		</div>
-
-		<div class="play">
-			@*<div class="play-icon">
-			<ion-icon name="play-sharp"></ion-icon>
-			</div>*
-			<div class="nav-logo">
-				<a asp-area="" asp-controller="Home" asp-action="Index">
-					<img src="/images/100t-logo2.png">
-				</a>
-			</div>
-		</div>
-
-
-	</div>*@
-</div>
-
-
-<div class="container-fluid" id="main-container">
-    <!-- Redirects to Partial View "_Index" -->
-    @await Html.PartialAsync("_Index");
-</div>
-
-
-
-@*<div class="form-container">
-    <table class="table">
-        <thead>
-            <tr>
-                <th>
-                    @Html.DisplayNameFor(model => model.Title)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Description)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Author)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Posted)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Updated)
-                </th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model)
-            {
-                <tr>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Title)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Description)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Author)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Posted)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Updated)
-                    </td>
-                    <td>
-                        <a asp-action="Edit" asp-route-id="@item.BlogEntreeId">Edit</a> |
-                        <a asp-action="Details" asp-route-id="@item.BlogEntreeId">Details</a> |
-                        <a asp-action="Delete" asp-route-id="@item.BlogEntreeId">Delete</a>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
-
-    <p>
-        <a asp-action="Create">Create New</a>
-    </p>
-</div>*@
 
 @section Scripts {
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/minNav.js"></script>
     <script src="~/js/blogintro.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
     <script src="~/js/RMBlog.js"></script>
 }

@@ -167,5 +167,10 @@ namespace HundredThievesWebsite.Controllers
         {
             return View();
         }
-    }
+
+		public IActionResult TestBlog2()
+		{
+			return View();
+		}
+	}
 }

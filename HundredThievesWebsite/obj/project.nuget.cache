@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "v62nL7Bm/+BywEPeoBx5mqhy0Tju5rzC1CJAU2D8oM4rw5+WvFoFECw6C5xfCwW1eIgr0dBW0POLgG+hfMBNEA==",
+  "dgSpecHash": "bYsiMlc4vsBo5ugq1pjHvul3Ox3Vgo+vHqAP/UXKzneLvf3/BqWH8dodLOFxX94qd0S6eEYPqCJmHkqEuCxtIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\HundredThievesWebsite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roman\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\roman\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
     "C:\\Users\\roman\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\roman\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "C:\\Users\\roman\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
