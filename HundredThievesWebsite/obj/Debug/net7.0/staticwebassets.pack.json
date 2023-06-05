@@ -817,6 +817,22 @@
       "PackagePath": "staticwebassets\\images\\fall-rae.jpg"
     },
     {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\filmgrain.jpg",
+      "PackagePath": "staticwebassets\\images\\filmgrain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\filmgraintransparent.png",
+      "PackagePath": "staticwebassets\\images\\filmgraintransparent.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\filmgrainwhite.png",
+      "PackagePath": "staticwebassets\\images\\filmgrainwhite.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\filmgrainwhite2.jpg",
+      "PackagePath": "staticwebassets\\images\\filmgrainwhite2.jpg"
+    },
+    {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\filter card fx.mp4",
       "PackagePath": "staticwebassets\\images\\filter card fx.mp4"
     },
@@ -1541,10 +1557,6 @@
       "PackagePath": "staticwebassets\\js\\multicard.js"
     },
     {
-      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\newFile.js",
-      "PackagePath": "staticwebassets\\js\\newFile.js"
-    },
-    {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\pace.js",
       "PackagePath": "staticwebassets\\js\\pace.js"
     },
@@ -1565,6 +1577,14 @@
       "PackagePath": "staticwebassets\\js\\script.vue"
     },
     {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\scrollTrigger.1.js",
+      "PackagePath": "staticwebassets\\js\\scrollTrigger.1.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\scrollTrigger.js",
+      "PackagePath": "staticwebassets\\js\\scrollTrigger.js"
+    },
+    {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -1583,6 +1603,10 @@
     {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\springSlider.js",
       "PackagePath": "staticwebassets\\js\\springSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\timeOnSlide.js",
+      "PackagePath": "staticwebassets\\js\\timeOnSlide.js"
     },
     {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",

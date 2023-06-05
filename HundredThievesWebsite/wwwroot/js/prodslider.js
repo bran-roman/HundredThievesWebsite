@@ -5,7 +5,7 @@ const newLocal = $(document).ready(function() {
     $('.carousel-showmanymoveone .item').each(function() {
         var itemToClone = $(this);
 
-        for (var i = 1; i < 2; i++) {
+        for (var i = 1; i < 5; i++) {
             itemToClone = itemToClone.next();
 
             if (!itemToClone.length) {
@@ -18,3 +18,4 @@ const newLocal = $(document).ready(function() {
         }
     });
 });
+
