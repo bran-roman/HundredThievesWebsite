@@ -1930,9 +1930,9 @@ section.about-column {
     #founder-info-text-rae {
         /*left: 0%;*/
         /*width: 4k3rem;*/
-        height: 100%;
-        width: 114%;
-        top: 42rem;
+        /*height: 100%;*/
+        width: 75%;
+        /*top: 42rem;*/
     }
 
     #founder-text-rae {
@@ -1941,7 +1941,7 @@ section.about-column {
 
     #owner-rae {
         position: relative;
-        right: 58rem;
+        /*right: 58rem;*/
     }
 }
 
@@ -2004,7 +2004,7 @@ section.about-column {
     /*    height: 100vh;  */
     background-repeat: no-repeat;
     filter: grayscale(.75);
-    width: 75vh;
+    /*width: 75vh;*/
 }
 
 .founder-img-subheading {
@@ -8684,12 +8684,12 @@ h1 {
 @media (max-width: 1283px) {
     #founder-info-text-nade,
     #founder-info-text-courage {
-        /*width: 60rem;*/
-        /*left: 0.8rem;*/
-        width: 85rem;
-        left: -25.2rem;
-        height: 66rem;
-        top: 28rem;
+        width: 60rem;
+        /*left: 1.2rem;*/
+        /*width: 85rem;*/
+        /*left: -25.2rem;*/
+        /*height: 66rem;*/
+        /*top: 28rem;*/
     }
 
     #founder-heading-nade {
