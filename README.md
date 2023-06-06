@@ -1,4 +1,4 @@
-# HundredThievesWebsite
+# Hundred Thieves Website Mockup Project
 
 The following repository is Web Based Application using C# / .NET Framework. 
 This project is currently in-progress and as of 5/31/2023 is incomplete.
