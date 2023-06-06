@@ -1185,6 +1185,10 @@
       "PackagePath": "staticwebassets\\images\\loading.mp4"
     },
     {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\lol.png",
+      "PackagePath": "staticwebassets\\images\\lol.png"
+    },
+    {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\lough.jpg",
       "PackagePath": "staticwebassets\\images\\lough.jpg"
     },
@@ -1479,6 +1483,26 @@
     {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\team2.jpg",
       "PackagePath": "staticwebassets\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\val-logo.png",
+      "PackagePath": "staticwebassets\\images\\val-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\val-logo2.png",
+      "PackagePath": "staticwebassets\\images\\val-logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\val-logo3.png",
+      "PackagePath": "staticwebassets\\images\\val-logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\val-logo4.png",
+      "PackagePath": "staticwebassets\\images\\val-logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\val-logo5.png",
+      "PackagePath": "staticwebassets\\images\\val-logo5.png"
     },
     {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\valkynade.jpg",

@@ -417,6 +417,17 @@ body {
     top: 10px;*/
 }
 
+    .site-logo::after {
+        text-decoration: none;
+        content: '';
+        position: absolute;
+        width: 1px;
+        height: 500px;
+        left: 3px;
+        background: #fff;
+        top: 80px;
+    }
+
 #loading-video {
     position: absolute;
     top: 0;
@@ -440,8 +451,8 @@ body {
 .home-tabs {
     /*height: 100vh;*/
     /*overflow-y: scroll;*/
-    /*background: white;*/
-    background: url(/images/filmgrainwhite2.jpg);
+    background: white;
+    /*background: url(/images/filmgrainwhite2.jpg);*/
     padding: 0px;
     overflow-x: hidden;
     /*width: 100%;*/
@@ -479,6 +490,7 @@ body {
     /*justify-content: space-around;*/
     padding: 0;
     align-items: center;
+    background: transparent;
 
     
 }
@@ -605,8 +617,8 @@ body {
 
 .play {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 93%;
+    left: 12%;
     transform: translate(-50%, -50%);
     /*transform: translate(-625%, 475%);*/
     width: 100px;
@@ -614,9 +626,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    border-radius: 100%;
-    color: #fff;
+    /*border: 1px solid rgba(255, 255, 255, 0.2);*/
+    /*border-radius: 100%;*/
+    /*color: #fff;*/
 }
 
 @media (max-width: 900px) {
@@ -808,8 +820,27 @@ section:after {
     /*max-width: 130px;*/
 }
 
+@media screen and (max-width: 1283px) {
+    .nav-logo {
+        position: relative;
+        left: 100px;
+    }
+}
+
+    /*.nav-logo::after {
+        text-decoration: none;
+        content: '';
+        position: absolute;
+        width: 250px;
+        height: 1px;
+        left: 200px;
+        background: #fff;
+        top: 50px;
+    }*/
+
 .nav-logo img {
-    height: 150px;
+    height: 95px;
+    filter: invert(.9);
 }
 
 .sidenav {
@@ -1312,7 +1343,7 @@ p,
     padding: 0%;
     width: 100%;
     height: 100%;
-    z-index: 2;
+    z-index: 1;
     /*background: #0f0f0f;*/
     /*background: url(/images/100t-studio2.jpeg);
     background-size: cover;
@@ -2013,14 +2044,14 @@ section.about-column {
 
 .divider {
     background: #181818;
-    background: linear-gradient(340deg, black, transparent);
+    background: linear-gradient(50deg, black, transparent);
     position: relative;
     /*left: -1%;*/
     padding-right: 75px;
 }
 
 .inner-divider {
-    height: 100px;
+    height: 70px;
     
 }
 
@@ -2187,7 +2218,7 @@ section.about-column {
 /* Utilities */
 
 .flow {
-    width: 70%;
+    width: 75%;
 }
 .auto-grid {
     display: flex;
@@ -2328,7 +2359,7 @@ section.about-column {
 
 #profile h2 {
     font-size: 2.5rem;
-    line-height: 1.2;
+    line-height: 0.2;
     font-weight: 600;
     letter-spacing: 0.03ch;
     transition: 300ms transform ease;
@@ -2990,11 +3021,11 @@ footer {
 
 @media (max-width: 1283px ) {
     .item img {
-        height: 40vh;
+        width: 150rem;
     }
 
     .item {
-        width: 12vw;
+        
     }
 }
 
@@ -3009,6 +3040,7 @@ footer {
     filter: grayscale(.75) drop-shadow(2px 4px 6px black);
     height: 21.5rem;
     transition: all 0.5s ease;
+    width: 100%;
 }
 
 .item img:hover {
@@ -4129,7 +4161,7 @@ textarea {
 }
 
 .carousel-showmanymoveone .c#slider-text{
-  padding-top: 40px;
+  /*padding-top: 40px;*/
   display: block;
 }
 
@@ -4342,16 +4374,18 @@ textarea {
         font-weight: 400;
         font-size: 30px;
         letter-spacing: 3px;
-        margin: 30px auto;
-        padding-left: 40px;
+        margin: 30px 60px;
+        text-align: center;
     }
 
-        #slider-text h2::after {
-            border-top: 2px solid #c7c7c7;
+        #slider-text h2::before {
+            /*border: 1px solid #c7c7c7;
             content: "";
-            position: absolute;
-            bottom: 35px;
-            width: 100%;
+            position: absolute;*/
+            /*bottom: 35px;*/
+            /*width: 100%;
+            right: 80%;
+            top: 84px;*/
         }
 
 #itemslider h4 {
@@ -4393,8 +4427,8 @@ textarea {
 
 #slider-control img {
     /*padding-top: 60%;*/
-    margin: 0 auto;
-    height: 36%;
+    /*margin: 0 auto;*/
+    height: 20%;
 
 }
 
@@ -4410,12 +4444,13 @@ textarea {
     background-image: none;
 }
 
-    .carousel-showmanymoveone .carousel-control.left {
-        margin-left: 5px;
+    .carousel-showmanymoveone .carousel-control.left img {
+        margin-top: 200px;
     }
 
-    .carousel-showmanymoveone .carousel-control.right {
-        margin-right: 5px;
+    .carousel-showmanymoveone .carousel-control.right img {
+        margin-left: 200px;
+        margin-top: 200px;
     }
 
 .carousel-showmanymoveone .cloneditem-1,
@@ -4427,7 +4462,7 @@ textarea {
 }
 
 .carousel-inner .item img {
-    height: 40vh;
+    height: 30vh;
 }
 
 @media all and (min-width: 768px) {
@@ -6347,6 +6382,28 @@ section.previews {
     display: flex;
     margin-top: 1em;
     list-style-type: none;
+    position: absolute;
+    bottom: 3%;
+    right: 4%;
+}
+
+.footer__social::after {
+    text-decoration: none;
+    content: '';
+    position: absolute;
+    width: 1px;
+    height: 500px;
+    left: 210px;
+    background-color: #fff;
+    bottom: 100px;  
+
+}
+
+ion-icon {
+    width: 25px;
+    height: 25px;
+    color: #fff;
+
 }
 
 @media (min-width: 30em) {
@@ -7382,6 +7439,13 @@ table.table {
     -webkit-text-stroke: 1px black;
 }
 
+#jujutsu-heading,
+#alumni-heading,
+#spring-heading
+{
+    position: relative;
+}
+
 .bloom {
     /*color: #3cd1a3;*/
     color: #ff4a4a;
@@ -7399,6 +7463,43 @@ table.table {
         /*background-color: ghostwhite;*/
         margin-left: 10px;
     }
+
+    #jujutsu-heading::after {
+        content: "";
+        position: absolute;
+        width: 25px;
+        height: 1px;
+        top: 10px;
+        /*left: 8%;*/
+        background-color: #191919;
+        /*background-color: ghostwhite;*/
+        margin-left: 10px;
+    
+    }
+
+    #alumni-heading::after {
+        content: "";
+        position: absolute;
+        width: 25px;
+        height: 1px;
+        top: 10px;
+        /*left: 8%;*/
+        background-color: #191919;
+        /*background-color: ghostwhite;*/
+        margin-left: 10px;
+    }
+
+#spring-heading::after {
+    content: "";
+    position: absolute;
+    width: 25px;
+    height: 1px;
+    top: 10px;
+    /*left: 8%;*/
+    background-color: #191919;
+    /*background-color: ghostwhite;*/
+    margin-left: 10px;
+}
 
     #collections-heading::before {
         content: '';
@@ -8103,8 +8204,19 @@ h1 {
 
     .toggle-btn ion-icon {
         font-size: 28px;
-        color: #9f8f68;
+        color: antiquewhite;
     }
+
+        /*.toggle-btn::after {
+            text-decoration: none;
+            content: '';
+            position: absolute;
+            width: 250px;
+            height: 1px;
+            right: 90px;
+            background-color: #fff;
+            top: 12px;
+        }*/
 
 .nav .menu {
     position: absolute;
@@ -8817,4 +8929,164 @@ width: 300px;*/
     #team-heading {
         left: 6%;
     }
+}
+
+
+#about-loader-text {   
+    font-size: 3rem;
+
+}
+
+#team-divider {
+    background: #181818;
+}
+
+#league-section {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#team-slider .container {
+    min-width: 100%;
+}
+
+#team-section .team a h2,
+#team-section .team a p {
+    text-align: right;
+
+} 
+
+#val-section {
+    /*background: white;*/
+}
+
+#val-section,
+#creator-section {
+    display: inline-flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+#val-logo-container {
+    height: 536px;
+    background: white;
+    box-shadow: 5px 10px 15px black;
+}
+
+#val-logo {
+    background: url(/images/val-logo5.png);
+    width: 100%;
+    margin-left: -20px;
+    position: relative;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+#val-team-container {
+    display: flex;
+    /*flex-wrap: wrap;*/
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    /*box-shadow: 5px 10px 15px black;*/
+    padding: 30px;
+    margin: 0;
+    /*background: radial-gradient(black, transparent);*/
+}
+
+.team-aside {
+    background: url(/images/barcode.png);
+    background-size: 400px 600px;
+    background-position: center;
+    height: 536px;
+    width: 120px;
+    position: relative;
+}
+
+
+#league-team-container {
+    display: flex;
+    /*flex-wrap: wrap;*/
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    /*box-shadow: 5px 10px 15px black;*/
+    padding: 30px;
+    /*background: radial-gradient(black, transparent);*/
+}
+
+#creator-team-container {
+    display: flex;
+    /*flex-wrap: wrap;*/
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    /*box-shadow: 5px 10px 15px black;*/
+    padding: 30px;
+    /*background: radial-gradient(black, transparent);*/
+}
+
+#lol-logo {
+    background: url(/images/lol.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    padding-left: 75px;
+    position: relative;
+    margin-left: 5%;
+    
+}
+
+    #lol-logo-container {
+        background: white;
+        box-shadow: 5px 10px 20px black;
+        height: 536px;
+        padding: 60px;
+    }
+
+#creator-logo {
+    background: url(/images/100t-logo-bw2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    padding-left: 75px;
+    position: relative;
+}
+
+#creator-logo-container {
+    height: 536px;
+    background: white;
+    box-shadow: 5px 5px 25px black;
+    padding: 60px;
+    margin-right: 2%;
+}
+
+
+
+#val-team-container .item,
+#league-team-container .item,
+#creator-team-container .item {
+    /*width: 100%;*/
+    /*box-shadow: 5px 10px 15px black;
+    background: white;*/
+}
+
+#val-team-container .item h5,
+#league-team-container .item h5,
+#creator-team-container .item h5 {
+    font-family: 'Integral CF';
+}
+
+#val-section .item img,
+#league-section .item img,
+#creator-section .item img {
+    padding: 0;
+    height: 40rem;
 }

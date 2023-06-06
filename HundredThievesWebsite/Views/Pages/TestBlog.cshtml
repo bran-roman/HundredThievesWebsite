@@ -18,7 +18,7 @@
         </div>
     </div>
     <div class="clipper-right">
-        <div class="loader-text">
+        <div class="loader-text" id="about-loader-text">
             "About"
 
         </div>
@@ -165,10 +165,10 @@
                     </section>
 
             <div id="content-wrap">
-                <div class="row" id="owner-section-nade">
+                
 
                 
-                    <section class="section">
+                    <section class="section" id="owner-section-nade">
 		                <div class="container-fluid founder-info">
 			                <div class="founder-img-content col-md-4" id="">
 				                <div class="founder-img">
@@ -253,7 +253,7 @@
                             </aside>
 		                </div>
 	                </section>
-                </div>
+                
 
 
                     <section id="owner-section-rae" class="section" >
@@ -461,7 +461,7 @@
                 
 
                     <section class="section" id="team-section">
-		                <div class="divider">
+		                <div class="divider" id="team-divider">
 			                <div class="inner-divider"></div>
                             <div class="divider-content" id="team-divider-content">
 
@@ -472,22 +472,22 @@
                                             <li>
                                                 <a href="#owner-section-nade" class="js-scroll-trigger" id="profile">
                                                     <h2 class="profile__name">Valorant</h2>
-                                                    <p>Founder</p>
-                                                <img alt="Nadeshot Profile" src="/images/100t-valorant5.jpg" />
+                                                    <p>2023</p>
+                                                    <img alt="Nadeshot Profile" src="/images/100t-valorant5.jpg" />
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="#owner-section-rae" class="js-scroll-trigger" id="profile">
                                                     <h2 class="profile__name">Creators</h2>
-                                                    <p>Owner</p>
-                                                <img alt="Valkyrae Profile" src="/images/100t-creators.png" />
+                                                    <p>2023</p>
+                                                    <img alt="Valkyrae Profile" src="/images/100t-creators.png" />
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="#owner-section-courage" class="js-scroll-trigger" id="profile">
                                                     <h2 class="profile__name">League Of Legends</h2>
-                                                    <p>Owner</p>
-                                                <img alt="Courage Profile" src="/images/100t-lolteam.jfif" />
+                                                    <p>2023</p>
+                                                    <img alt="Courage Profile" src="/images/100t-lolteam.jfif" />
                                                 </a>
                                             </li>
 
@@ -504,155 +504,175 @@
 		                </div>
 	                </section>
 
-                @*<section class="section" id="team-slider">
+                <section class="section" id="val-section">
 
-                        <div class="container">
-                            <div class="row" id="slider-text">
-                                <div class="col-md-6">
-                                    <h2>League of Legends</h2>
-                                </div>
-                            </div>
-                        </div>*@
+                    <div class="container-fluid col-sm-3" id="val-logo-container">
+                        <div id="val-logo"></div>
+                    </div>
 
-                        <!-- Item slider-->
-                        @*<div class="container-fluid">
+                    <!-- Item slider-->
+                    <div class="container-fluid col-sm-8" id="val-team-container">
+                        
+                        <div class="item active">
 
-                            <div class="row">
-                                <div class="col-xs-12 col-sm-12 col-md-12">
-                                    <div class="carousel carousel-showmanymoveone slide" id="itemslider">
-                                        <div class="carousel-inner">
+                                <a href="#"><img src="/images/100t-cryo.png" class="img-responsive center-block"></a>
+                                <h5 class="text-center">Cryo</h5>
+                                
 
-                                            <div class="item active">
-                                                <div class="col-xs-12 col-sm-6 col-md-2">
-                                                    <a href="#"><img src="/images/100t-lol-bjergsen.jpg" class="img-responsive center-block"></a>
-                                                    <h4 class="text-center">MAYORAL SUKNJA</h4>
-                                                    <h5 class="text-center">200,00 TK</h5>
-                                                </div>
-                                            </div>
-
-                                            <div class="item">
-                                                <div class="col-xs-12 col-sm-6 col-md-2">
-                                                    <a href="#"><img src=" /images/100t-lol-closer.jfif" class="img-responsive center-block"></a>
-                                                    <h4 class="text-center">MAYORAL KOŠULJA</h4>
-                                                    <h5 class="text-center">800 TK</h5>
-                                                </div>
-                                            </div>
-
-                                            <div class="item">
-                                                <div class="col-xs-12 col-sm-6 col-md-2">
-                                                    <a href="#"><img src="/images/100t-lol-doublelift.jfif" class="img-responsive center-block"></a>
-                                                    <span class="badge">10%</span>
-                                                    <h4 class="text-center">PANTALONE TERI 2</h4>
-                                                    <h5 class="text-center">4000,00 TK</h5>
-                                                    <h6 class="text-center">5000,00 TK</h6>
-                                                </div>
-                                            </div>
-
-                                            <div class="item">
-                                                <div class="col-xs-12 col-sm-6 col-md-2">
-                                                    <a href="#"><img src="/images/100t-lol-tenacity.jfif " class="img-responsive center-block"></a>
-                                                    <h4 class="text-center">CVETNA HALJINA</h4>
-                                                    <h5 class="text-center">4000,00 RSD</h5>
-                                                </div>
-                                            </div>
-
-                                            <div class="item">
-                                                <div class="col-xs-12 col-sm-6 col-md-2">
-                                                    <a href="#"><img src="/images/100t-lol-busio.jfif" class="img-responsive center-block"></a>
-                                                    <h4 class="text-center">MAJICA FOTO</h4>
-                                                    <h5 class="text-center">40,00 TK</h5>
-                                                </div>
-                                            </div>
-
-                                        </div>
-
-                                        <div id="slider-control">
-                                            <a class="left carousel-control" href="#itemslider" data-slide="prev"><img src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_402-512.png" alt="Left" class="img-responsive"></a>
-                                            <a class="right carousel-control" href="#itemslider" data-slide="next"><img src="http://pixsector.com/cache/81183b13/avcc910c4ee5888b858fe.png" alt="Right" class="img-responsive"></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
-                        <!-- Item slider end-->
-                    </section>*@
 
-                    @*<section class="section" id="team-slider">
+                        <div class="item">
 
-                        <div class="container">
-                            <div class="row" id="slider-text">
-                                <div class="col-md-6">
-                                    <h2>Valorant</h2>
-                                </div>
-                            </div>
+                                <a href="#"><img src=" /images/100t-stellar.png" class="img-responsive center-block"></a>
+                                <h5 class="text-center">Stellar</h5>
+                                
+                            
+                        </div>
+
+                        <div class="item">
+                            
+                                <a href="#"><img src="/images/100t-derrek.png" class="img-responsive center-block"></a>
+                                
+                                <h5 class="text-center">Derrek</h5>
+                                
+
+                           
+                        </div>
+
+                        <div class="item">
+                            
+                                <a href="#"><img src="/images/100t-asuna.png" class="img-responsive center-block"></a>
+                                <h5 class="text-center">Asuna</h5>
+                                
+                            
+                        </div>
+
+                        <div class="item">
+                            
+                                <a href="#"><img src="/images/100t-bang.png" class="img-responsive center-block"></a>
+                                <h5 class="text-center">Bang</h5>
+                                
+                            
+                        </div>
+                    </div>
+                    <aside class="team-aside">
+
+                    </aside>
+                    <!-- Item slider end-->
+                </section>
+
+                <section class="section" id="league-section">
+
+                        <div class="container-fluid col-sm-3" id="lol-logo-container">
+                            <div id="lol-logo"></div>
                         </div>
 
                         <!-- Item slider-->
-                        <div class="container-fluid">
+                      
+                        <div class="container-fluid col-sm-8" id="league-team-container">
+                            <div class="item active">
+                                
+                                    <a href="#"><img src="/images/100t-lol-bjergsen.jpg" class="img-responsive center-block"></a>
 
-                            <div class="row">
-                                <div class="col-xs-12 col-sm-12 col-md-12">
-                                    <div class="carousel carousel-showmanymoveone slide" id="itemslider">
-                                        <div class="carousel-inner">
+                                    <h5 class="text-center">Bjergsen</h5>
 
-                                            <div class="item active">
-                                                <div class="col-xs-12 col-sm-6 col-md-2">
-                                                    <a href="#"><img src="/images/100t-cryo.png" class="img-responsive center-block"></a>
-                                                    <h4 class="text-center">MAYORAL SUKNJA</h4>
-                                                    <h5 class="text-center">200,00 TK</h5>
-                                                </div>
-                                            </div>
-
-                                            <div class="item">
-                                                <div class="col-xs-12 col-sm-6 col-md-2">
-                                                    <a href="#"><img src=" /images/100t-stellar.png" class="img-responsive center-block"></a>
-                                                    <h4 class="text-center">MAYORAL KOŠULJA</h4>
-                                                    <h5 class="text-center">800 TK</h5>
-                                                </div>
-                                            </div>
-
-                                            <div class="item">
-                                                <div class="col-xs-12 col-sm-6 col-md-2">
-                                                    <a href="#"><img src="/images/100t-derrek.png" class="img-responsive center-block"></a>
-                                                    <span class="badge">10%</span>
-                                                    <h4 class="text-center">PANTALONE TERI 2</h4>
-                                                    <h5 class="text-center">4000,00 TK</h5>
-                                                    <h6 class="text-center">5000,00 TK</h6>
-                                                </div>
-                                            </div>
-
-                                            <div class="item">
-                                                <div class="col-xs-12 col-sm-6 col-md-2">
-                                                    <a href="#"><img src="/images/100t-asuna.png" class="img-responsive center-block"></a>
-                                                    <h4 class="text-center">CVETNA HALJINA</h4>
-                                                    <h5 class="text-center">4000,00 RSD</h5>
-                                                </div>
-                                            </div>
-
-                                            <div class="item">
-                                                <div class="col-xs-12 col-sm-6 col-md-2">
-                                                    <a href="#"><img src="/images/100t-bang.png" class="img-responsive center-block"></a>
-                                                    <h4 class="text-center">MAJICA FOTO</h4>
-                                                    <h5 class="text-center">40,00 TK</h5>
-                                                </div>
-                                            </div>
-
-                                        </div>
-
-                                        <div id="slider-control">
-                                            <a class="left carousel-control" href="#itemslider" data-slide="prev"><img src="https://cdn0.iconfinder.com/data/icons/website-kit-2/512/icon_402-512.png" alt="Left" class="img-responsive"></a>
-                                            <a class="right carousel-control" href="#itemslider" data-slide="next"><img src="http://pixsector.com/cache/81183b13/avcc910c4ee5888b858fe.png" alt="Right" class="img-responsive"></a>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
+
+                            <div class="item">
+                                
+                                    <a href="#"><img src=" /images/100t-lol-closer.jfif" class="img-responsive center-block"></a>
+
+                                    <h5 class="text-center">Closer</h5>
+                                
+                            </div>
+
+                            <div class="item">
+                                
+                                    <a href="#"><img src="/images/100t-lol-doublelift.jfif" class="img-responsive center-block"></a>
+                                    
+
+                                    <h5 class="text-center">Double Lift</h5>
+
+                                
+                            </div>
+
+                            <div class="item">
+                                
+                                    <a href="#"><img src="/images/100t-lol-tenacity.jfif " class="img-responsive center-block"></a>
+
+                                    <h5 class="text-center">Tenacity</h5>
+                                
+                            </div>
+
+                            <div class="item">
+                                
+                                    <a href="#"><img src="/images/100t-lol-busio.jfif" class="img-responsive center-block"></a>
+                                    <h5 class="text-center">Busio</h5>
+                                
+                            </div>
+                            
                         </div>
-                        <!-- Item slider end-->
-                    </section>*@
+                    <aside class="team-aside">
+
+                    </aside>
+                    
+                    <!-- Item slider end-->
+                </section>
+
+                <section class="section" id="creator-section">
+
+                    <div class="container-fluid col-sm-3" id="creator-logo-container">
+                        <div id="creator-logo"></div>
+                    </div>
+
+                    <!-- Item slider-->
+                    <div class="container-fluid col-sm-8" id="creator-team-container">
+                        <div class="item active">
+
+                            <a href="#"><img src="/images/brooke5.jpg" class="img-responsive center-block"></a>
+                            <h5 class="text-center">BrookeAB</h5>
+
+                        </div>
+
+                        <div class="item">
+
+                            <a href="#"><img src="/images/vinny5.jpg" class="img-responsive center-block"></a>
+                            <h5 class="text-center">Vinny</h5>
+
+                        </div>
+
+                        <div class="item">
+
+                            <a href="#"><img src="/images/foundation-fuslie5.jfif" class="img-responsive center-block"></a>
+                            <h5 class="text-center">Fuslie</h5>
+
+
+                        </div>
+
+                        <div class="item">
+
+                            <a href="#"><img src="/images/fall-kyedae3.jfif" class="img-responsive center-block"></a>
+                            <h5 class="text-center">Kyedae</h5>
+
+                        </div>
+
+                        <div class="item">
+
+                            <a href="#"><img src="/images/lough.jpg" class="img-responsive center-block"></a>
+                            <h5 class="text-center">Lough</h5>
+
+                        </div>
+                    </div>
+                    <!-- Item slider end-->
+                    <aside class="team-aside">
+
+                    </aside>
+                </section>
+                    
 
 
 
-                </div> <!-- /#content-wrap -->
+            </div> <!-- /#content-wrap -->
 
             
 
@@ -678,4 +698,7 @@
     @*<script src='https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js'></script>*@
     @*<script src='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js'></script>*@
     @*<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js'></script>*@
+    
+    
+
 }

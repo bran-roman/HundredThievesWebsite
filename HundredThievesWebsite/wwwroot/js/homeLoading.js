@@ -93,4 +93,35 @@ function newFunction() {
             amount: 1,
         },
     });
+
+    gsap.from(".new-blog-heading-container", 1, {
+        opacity: 0,
+        delay: 3.1,
+        x: -100,
+        ease: "power4.inOut",
+        stagger: {
+            amount: 1,
+        },
+    });
+
+
+    gsap.from(".about-subtext-container", .9, {
+        opacity: 0,
+        delay: 3.3,
+        y: 100,
+        ease: "power4.inOut",
+        stagger: {
+            amount: 1,
+        },
+    });
+
+    gsap.from(".blog-banner-container", .9, {
+        opacity: 0,
+        delay: 3.6,
+        x: 100,
+        ease: "power4.inOut",
+        stagger: {
+            amount: 1,
+        },
+    });
 }
