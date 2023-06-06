@@ -6635,7 +6635,7 @@ table.table {
     overflow-y: auto;
     /*justify-content: space-between;*/
     padding: 0;
-    background: url(/images/filmgrainwhite2.jpg);
+    /*background: url(/images/filmgrainwhite2.jpg);*/
 }
 
 .BlogEntreeFormPosts:nth-child(even) {
