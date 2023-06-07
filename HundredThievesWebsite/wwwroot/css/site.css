@@ -2036,6 +2036,7 @@ section.about-column {
     background-repeat: no-repeat;
     filter: grayscale(.75);
     /*width: 75vh;*/
+    border-radius: 5px;
 }
 
 .founder-img-subheading {
@@ -2283,6 +2284,7 @@ section.about-column {
     overflow: hidden;
     /*height: 50rem;*/
     width: 20.5vw;
+    border-radius: 5px;
 }
 
 @media (max-width: 1278px) {
@@ -2976,8 +2978,8 @@ footer {
 
 
     .home-tab-heading-container .first {
-        transform: translate(0%, 75%);
-        font-size: 5.65rem;
+        transform: translate(4%, 50%);
+        /*font-size: 5.65rem;*/
     }
     
     .home-tab-heading-container .apparel-heading {
@@ -7327,67 +7329,66 @@ table.table {
 }
 
 .first {
-    color: silver;
+    color: #bebebe;
     /*transform: translate(2%, 50%);*/
-    transform: translate(2%, 45%); 
-    font-size: 3rem;
-    /*font-family: 'Integral CF';*/
-    font-family: Raleway;
+    transform: translate(2%, 45%);
+    font-size: 2rem;
+    font-family: 'Integral CF';
+    /*font-family: Raleway;*/
     text-transform: uppercase;
     /*left: -185px;*/
     position: relative;
     transform-origin: left;
     mix-blend-mode: multiply;
-    letter-spacing: -0.1em;
-    height: 100px;
-    font-style: italic;
-
-
+    /*letter-spacing: -0.1em;*/
+    /*height: 100px;*/
+    height: 125px;
+    /*font-style: italic;*/
 }
 
     .first::after {
         text-decoration: none;
         content: '';
-        position: absolute;
+        position: absolute;                                      
         width: 100%;
         /*-webkit-transform: scaleX(0);
         transform: scaleX(0);*/
         height: 1px;
         /*bottom: 0px;*/
         /*left: 225px;*/
-        left: 215px;
+        left: 210px;
         background: lightgray;
         transform-origin: bottom right;
         transition: transform 0.25s ease-out;
-        top: 40px;
+        top: 30px;
     }
 
 @media (max-width: 1283px) {
     .first::after {
-        left: 295px;
-        top: 50px;
+        left: 200px;
+        top: 30px;
     }
 }
 
 
 
 .second {
-    /*color: #E42149;
-    transform: translate(32.5%, -40%);*/
+    color: #bebebe;
+    /*transform: translate(32.5%, -40%);*/
     color: #191919;
     font-size: 2rem;
-    /*font-family: 'Integral CF';*/
-    font-family: Raleway;
+    font-family: 'Integral CF';
+    /*font-family: Raleway;*/
     text-transform: uppercase;
     
     position: relative;
     transform-origin: left;
     mix-blend-mode: multiply;
-    letter-spacing: -0.1em;
+    /*letter-spacing: -0.1em;*/
     /*height: 250px;*/
     text-align: right;
     right: 30px;
-    font-style: italic;
+    /*font-style: italic;*/
     
 }
 
@@ -7510,9 +7511,10 @@ table.table {
         /*left: -540px;*/
         /*top: 40px;*/
         top: 25px;
-        right: 185px;
-        /*right: 275px;*/
-        background: black;
+        /*right: 185px;*/
+        right: 275px;
+        /*background: black;*/
+        background: #bebebe;
     }
 
 @media (max-width: 1283px) {
@@ -8943,7 +8945,7 @@ width: 300px;*/
 
 #league-section {
     display: inline-flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     align-items: center;
 }
 
@@ -8972,6 +8974,7 @@ width: 300px;*/
     height: 536px;
     background: white;
     box-shadow: 5px 10px 15px black;
+    margin-right: 0;
 }
 
 #val-logo {
@@ -8992,9 +8995,10 @@ width: 300px;*/
     justify-content: space-evenly;
     align-items: center;
     /*box-shadow: 5px 10px 15px black;*/
-    padding: 30px;
-    margin: 0;
+    /*padding: 30px;*/
+    /*margin: 0;*/
     /*background: radial-gradient(black, transparent);*/
+    /*background: white;*/
 }
 
 .team-aside {
@@ -9016,6 +9020,7 @@ width: 300px;*/
     /*box-shadow: 5px 10px 15px black;*/
     padding: 30px;
     /*background: radial-gradient(black, transparent);*/
+    /*background: white;*/
 }
 
 #creator-team-container {
@@ -9036,18 +9041,19 @@ width: 300px;*/
     background-position: center;
     height: 100%;
     width: 100%;
-    padding-left: 75px;
+    /*padding-left: 75px;
     position: relative;
-    margin-left: 5%;
+    margin-left: 5%;*/
     
 }
 
-    #lol-logo-container {
-        background: white;
-        box-shadow: 5px 10px 20px black;
-        height: 536px;
-        padding: 60px;
-    }
+#lol-logo-container {
+    background: white;
+    box-shadow: 5px 10px 20px black;
+    height: 536px;
+    padding-right: 70px;
+    margin: 0;
+}
 
 #creator-logo {
     background: url(/images/100t-logo-bw2.png);
@@ -9058,14 +9064,15 @@ width: 300px;*/
     width: 100%;
     padding-left: 75px;
     position: relative;
+    
 }
 
 #creator-logo-container {
     height: 536px;
     background: white;
     box-shadow: 5px 5px 25px black;
-    padding: 60px;
-    margin-right: 2%;
+    padding-right: 70px;
+    margin-right: 0%;
 }
 
 
