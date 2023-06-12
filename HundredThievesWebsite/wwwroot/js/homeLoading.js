@@ -1,4 +1,4 @@
-﻿gsap.registerPlugin(ScrollTrigger);
+﻿
 
 newFunction();
 
