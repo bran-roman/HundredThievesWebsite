@@ -274,3 +274,5 @@ var totalSlides = $("#slider-wrap ul li").length;
 //get the slide width
 var sliderWidth = $("#slider-wrap").width();
 
+
+

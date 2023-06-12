@@ -63,7 +63,7 @@
 	                </section>*@
 
 	                <!-- Divider -->
-	                <section class="section" id="about-test">
+	                <section class="section container" id="about-test">
 		                <div class="blog-banner-text-container col-sm-4">
 			                <aside class="new-blog-heading-container">
                                 <div class="marquee">
@@ -155,8 +155,8 @@
                                     </article>
 
                                 <div class="owner-heading">
-                                    <h2 class="owner-first">About the </h2>
-                                    <h2 class="owner-second">Owners</h2>
+                                    <h2 class="owner-first"><span>About </span>the <span>Owners</span> </h2>
+                                    @*<h2 class="owner-second">Owners</h2>*@
                                 </div>
                             </div>
                         
@@ -168,24 +168,43 @@
                 
 
                 
-                    <section class="section" id="owner-section-nade">
+                    <section class="section container" id="owner-section-nade">
 		                <div class="container-fluid founder-info">
-			                <div class="founder-img-content col-md-4" id="">
+			                <div class="founder-img-content col-sm-4" id="">
 				                <div class="founder-img">
 					                @*<img src="~/images/nadeshot12.png" id="founder-img" />*@
 				                </div>
-                                @*<div id="slidy-container">
-                                    <figure id="slidy">
-                                        <img src="~/images/nadeshot12.png" id="founder-img" />
-                                        <img src="~/images/nadeshot9.jpg" id="founder-img" />
-                                        <img src="~/images/nadeshot10.jfif" id="founder-img" />
-                                        <img src="~/images/nadeshot1.jpg" id="founder-img" />
+                                @*<div class="container">
+                                    <div class="slideshow_wrapper">
+                                        <div class="slideshow">
+                                            <div class="slide_one slide">
+                                            <img src="~/images/nadeshot12.png" id="founder-img" />
+                                            </div>
+
+                                            <div class="slide_two slide">
+                                            <img src="~/images/nadeshot1.jpg" id="founder-img" />
+                                            </div>
+
+                                            <div class="slide_three slide">
+                                            <img src="~/images/nadeshot7.jpg" id="founder-img" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>*@
+                                @*<div class="slider rtl">
+                                    <figure>
+                                    <img src="~/images/nadeshot12.png" id="founder-img" />
+                                    <img src="~/images/nadeshot1.jpg" id="founder-img" />
+                                    <img src="~/images/nadeshot4.jpg" id="founder-img" />
+                                    <img src="~/images/nadeshot3.jpg" id="founder-img" />
+                                        <!-- repeat first slide to not see an empty slide as it loops back around -->
+                                    <img src="~/images/nadeshot12.png" id="founder-img" />
                                     </figure>
                                 </div>*@
 			                </div>
 
             
-			                <div class="founder-info-text-container col-md-8" id="">
+			                <div class="founder-info-text-container container" id="">
                                 <div class="founder-info-text"  id="founder-info-text-nade">
                                     <div class="about-section-heading-container">
                                         <h2 class="section-subheading">
@@ -256,7 +275,7 @@
                 
 
 
-                    <section id="owner-section-rae" class="section" >
+                    <section id="owner-section-rae" class="section container" >
                         <div class="container-fluid founder-info" id="rae-section">
                             <div class="founder-img-content col-md-4">
                                 <div class="founder-img" id="owner-rae">
@@ -264,7 +283,7 @@
                                 </div>
                             </div>
 
-                            <div class="founder-info-text-container col-md-8" id="">
+                            <div class="founder-info-text-container container" id="">
                                 <div class="founder-info-text" id="founder-info-text-rae">
                                     <div class="about-section-heading-container">
                                         <h2 class="section-subheading">
@@ -380,7 +399,7 @@
                 
 
 
-                    <section class="section" id="owner-section-courage">
+                    <section class="section container" id="owner-section-courage">
                         <div class="container-fluid founder-info">
                             <div class="founder-img-content col-md-4" id="">
                                 <div class="founder-img" id="owner-courage">
@@ -389,7 +408,7 @@
                             </div>
 
 
-                            <div class="founder-info-text-container col-md-8" id="">
+                            <div class="founder-info-text-container container" id="">
                                 <div class="founder-info-text" id="founder-info-text-courage">
                                     <div class="about-section-heading-container">
                                         <h2 class="section-subheading">
@@ -464,41 +483,20 @@
 		                <div class="divider" id="team-divider">
 			                <div class="inner-divider"></div>
                             <div class="divider-content" id="team-divider-content">
-
-                                <article class="flow">
-
-                                    <div id="nav" class="team">
-                                        <ul class="auto-grid" role="list">
-                                            <li>
-                                                <a href="#owner-section-nade" class="js-scroll-trigger" id="profile">
-                                                    <h2 class="profile__name">Valorant</h2>
-                                                    <p>2023</p>
-                                                    <img alt="Nadeshot Profile" src="/images/100t-valorant5.jpg" />
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#owner-section-rae" class="js-scroll-trigger" id="profile">
-                                                    <h2 class="profile__name">Creators</h2>
-                                                    <p>2023</p>
-                                                    <img alt="Valkyrae Profile" src="/images/100t-creators.png" />
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#owner-section-courage" class="js-scroll-trigger" id="profile">
-                                                    <h2 class="profile__name">League Of Legends</h2>
-                                                    <p>2023</p>
-                                                    <img alt="Courage Profile" src="/images/100t-lolteam.jfif" />
-                                                </a>
-                                            </li>
-
-                                        </ul>
-                                    </div>
-                                </article>
-
-                                <div class="owner-heading" id="team-heading">
-                                    <h2 class="owner-first">About</h2>
-                                    <h2 class="owner-second">Teams</h2>
+                                <div class="team-heading" id="team-heading">
+                                    <h2 class="owner-first">Our <span>Teams</span></h2>
+                                    @*<h2 class="owner-second">Teams</h2>*@
                                 </div>
+
+                                <div class="marquee" id="teams-marquee">
+                                    <ul class="marquee-content">
+                                        <li><img src="~/images/val-logo5.png" /></li>
+                                        <li><img src="~/images/lol.png" /></li>
+                                        <li><img src="~/images/100t-logo-bw2.png" /></li>
+                                    
+                                    </ul>
+                                </div>
+
                             </div>
 			                <div class="inner-divider"></div>
 		                </div>
@@ -687,11 +685,19 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
     @*<script src="~/js/prodslider.js"></script>*@
     @*<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>*@
-
+    
+    <!-- Teams Marquee -->
+    <script src="~/js/teams-marquee.js"></script>
     <!-- Smooth Scroll -->
     @*<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.4/ScrollToPlugin.min.js'></script>*@
     @*<script src='https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/8.5.1/smooth-scrollbar.js'></script>*@
-    @*<script src="~/js/smoothscroll.js"></script>*@
+
+    <!-- Scroll Trigger -->
+    
+    @*<script src="~/js/ScrollTrigger.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.0/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.0/ScrollTrigger.min.js"></script>*@
+
 
     @*<script src="~/js/scrollTrigger.js"></script>*@
     @*<script src='https://code.jquery.com/jquery-3.5.1.min.js'></script>*@

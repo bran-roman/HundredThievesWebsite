@@ -1,4 +1,6 @@
-﻿newFunction();
+﻿gsap.registerPlugin(ScrollTrigger);
+
+newFunction();
 
 function newFunction() {
     gsap.to(".clipper-left", 2, {
@@ -124,4 +126,11 @@ function newFunction() {
             amount: 1,
         },
     });
+
+    
+
+    
+
+    
+
 }

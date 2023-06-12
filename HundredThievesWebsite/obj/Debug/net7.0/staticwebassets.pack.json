@@ -1549,6 +1549,22 @@
       "PackagePath": "staticwebassets\\js\\RMBlog.js"
     },
     {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\js\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\ScrollToPlugin.min.js.map",
+      "PackagePath": "staticwebassets\\js\\ScrollToPlugin.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\ScrollTrigger.min.js",
+      "PackagePath": "staticwebassets\\js\\ScrollTrigger.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\ScrollTrigger.min.js.map",
+      "PackagePath": "staticwebassets\\js\\ScrollTrigger.min.js.map"
+    },
+    {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\Tabs.js",
       "PackagePath": "staticwebassets\\js\\Tabs.js"
     },
@@ -1601,14 +1617,6 @@
       "PackagePath": "staticwebassets\\js\\script.vue"
     },
     {
-      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\scrollTrigger.1.js",
-      "PackagePath": "staticwebassets\\js\\scrollTrigger.1.js"
-    },
-    {
-      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\scrollTrigger.js",
-      "PackagePath": "staticwebassets\\js\\scrollTrigger.js"
-    },
-    {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -1627,6 +1635,10 @@
     {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\springSlider.js",
       "PackagePath": "staticwebassets\\js\\springSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\teams-marquee.js",
+      "PackagePath": "staticwebassets\\js\\teams-marquee.js"
     },
     {
       "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\timeOnSlide.js",

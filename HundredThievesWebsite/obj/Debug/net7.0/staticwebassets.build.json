@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jg5x1GrC73YZ9SMW0h+Ynj0cx6Va0Yq5S+gm4uk/NmQ=",
+  "Hash": "N3aJ6d4InLjrBtr8SuBwercY2soib6PdmF1Ng3okZ9U=",
   "Source": "HundredThievesWebsite",
   "BasePath": "_content/HundredThievesWebsite",
   "Mode": "Default",
@@ -6800,12 +6800,12 @@
       "OriginalItemSpec": "wwwroot\\js\\script.vue"
     },
     {
-      "Identity": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\scrollTrigger.1.js",
+      "Identity": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\ScrollToPlugin.min.js",
       "SourceId": "HundredThievesWebsite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\",
       "BasePath": "_content/HundredThievesWebsite",
-      "RelativePath": "js/scrollTrigger.1.js",
+      "RelativePath": "js/ScrollToPlugin.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6814,15 +6814,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\scrollTrigger.1.js"
+      "OriginalItemSpec": "wwwroot\\js\\ScrollToPlugin.min.js"
     },
     {
-      "Identity": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\scrollTrigger.js",
+      "Identity": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\ScrollToPlugin.min.js.map",
       "SourceId": "HundredThievesWebsite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\",
       "BasePath": "_content/HundredThievesWebsite",
-      "RelativePath": "js/scrollTrigger.js",
+      "RelativePath": "js/ScrollToPlugin.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6831,7 +6831,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\scrollTrigger.js"
+      "OriginalItemSpec": "wwwroot\\js\\ScrollToPlugin.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\ScrollTrigger.min.js",
+      "SourceId": "HundredThievesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\",
+      "BasePath": "_content/HundredThievesWebsite",
+      "RelativePath": "js/ScrollTrigger.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ScrollTrigger.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\ScrollTrigger.min.js.map",
+      "SourceId": "HundredThievesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\",
+      "BasePath": "_content/HundredThievesWebsite",
+      "RelativePath": "js/ScrollTrigger.min.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ScrollTrigger.min.js.map"
     },
     {
       "Identity": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\site.js",
@@ -6951,6 +6985,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Tabs.js"
+    },
+    {
+      "Identity": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\teams-marquee.js",
+      "SourceId": "HundredThievesWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\",
+      "BasePath": "_content/HundredThievesWebsite",
+      "RelativePath": "js/teams-marquee.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\teams-marquee.js"
     },
     {
       "Identity": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\timeOnSlide.js",

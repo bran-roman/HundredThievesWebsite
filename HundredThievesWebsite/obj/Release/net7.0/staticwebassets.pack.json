@@ -1,0 +1,1881 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\HundredThievesWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HundredThievesWebsite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\css\\site2.css",
+      "PackagePath": "staticwebassets\\css\\site2.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\css\\split.css",
+      "PackagePath": "staticwebassets\\css\\split.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100-thieves-lexus-partnership.jpeg",
+      "PackagePath": "staticwebassets\\images\\100-thieves-lexus-partnership.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100-thieves-logo_feature.jpg",
+      "PackagePath": "staticwebassets\\images\\100-thieves-logo_feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100-thieves-logo_feature2.jpg",
+      "PackagePath": "staticwebassets\\images\\100-thieves-logo_feature2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100Thieves x Gucci 1080.mp4",
+      "PackagePath": "staticwebassets\\images\\100Thieves x Gucci 1080.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100_Thieves_logo.svg.png",
+      "PackagePath": "staticwebassets\\images\\100_Thieves_logo.svg.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100_thieves_wallpaper_by_xlzipx_dc1ev9f-pre.jpg",
+      "PackagePath": "staticwebassets\\images\\100_thieves_wallpaper_by_xlzipx_dc1ev9f-pre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t spring.jpg",
+      "PackagePath": "staticwebassets\\images\\100t spring.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-Juvee.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-Juvee.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-Juvee2.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-Juvee2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-asuna.png",
+      "PackagePath": "staticwebassets\\images\\100t-asuna.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bang.png",
+      "PackagePath": "staticwebassets\\images\\100t-bang.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bg.jpeg",
+      "PackagePath": "staticwebassets\\images\\100t-bg.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bg3.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bg4.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-bg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bg5.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-bg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bg9.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-bg9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-blackwhitelogo.png",
+      "PackagePath": "staticwebassets\\images\\100t-blackwhitelogo.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bluerazz-juvee.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-bluerazz-juvee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-bw.jpeg",
+      "PackagePath": "staticwebassets\\images\\100t-bw.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-chair.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-chair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-champ.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-champ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-compound.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-compound.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-compound2.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-compound2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-compound3.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-compound3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-creators.png",
+      "PackagePath": "staticwebassets\\images\\100t-creators.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-creators2.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-creators2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-cryo.png",
+      "PackagePath": "staticwebassets\\images\\100t-cryo.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-cryo2.jfif",
+      "PackagePath": "staticwebassets\\images\\100t-cryo2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-derrek.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-derrek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-derrek.png",
+      "PackagePath": "staticwebassets\\images\\100t-derrek.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-esports.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-esports.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-esports2.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-esports2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-esports3.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-esports3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-higround-streetfighter.jfif",
+      "PackagePath": "staticwebassets\\images\\100t-higround-streetfighter.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-higround.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-higround.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-higround2.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-higround2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-higround3.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-higround3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-idk.png",
+      "PackagePath": "staticwebassets\\images\\100t-idk.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-juvee3.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-juvee3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-logo-bw.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-logo-bw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-logo-bw2.png",
+      "PackagePath": "staticwebassets\\images\\100t-logo-bw2.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-logo.png",
+      "PackagePath": "staticwebassets\\images\\100t-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-logo2.png",
+      "PackagePath": "staticwebassets\\images\\100t-logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-logo3.png",
+      "PackagePath": "staticwebassets\\images\\100t-logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-logo4.png",
+      "PackagePath": "staticwebassets\\images\\100t-logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lol-bjergsen.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-lol-bjergsen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lol-busio.jfif",
+      "PackagePath": "staticwebassets\\images\\100t-lol-busio.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lol-busio2.jfif",
+      "PackagePath": "staticwebassets\\images\\100t-lol-busio2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lol-closer.jfif",
+      "PackagePath": "staticwebassets\\images\\100t-lol-closer.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lol-doublelift.jfif",
+      "PackagePath": "staticwebassets\\images\\100t-lol-doublelift.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lol-tenacity.jfif",
+      "PackagePath": "staticwebassets\\images\\100t-lol-tenacity.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lol.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-lol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lol2.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-lol2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lol3.png",
+      "PackagePath": "staticwebassets\\images\\100t-lol3.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lolteam.jfif",
+      "PackagePath": "staticwebassets\\images\\100t-lolteam.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-lough.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-lough.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-mikes.PNG",
+      "PackagePath": "staticwebassets\\images\\100t-mikes.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-side.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-side.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-spotlight.png",
+      "PackagePath": "staticwebassets\\images\\100t-spotlight.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-spring.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-spring.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-stellar.png",
+      "PackagePath": "staticwebassets\\images\\100t-stellar.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-studio.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-studio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-studio2.jpeg",
+      "PackagePath": "staticwebassets\\images\\100t-studio2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-val.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-val.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-val2.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-val2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-val3.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-val3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-valkyrae.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-valkyrae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-valkyrae.mp4",
+      "PackagePath": "staticwebassets\\images\\100t-valkyrae.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-valkyrae2.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-valkyrae2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-valorant-esports.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-valorant-esports.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-valorant.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-valorant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-valorant2.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-valorant2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-valorant3.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-valorant3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-valorant5.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-valorant5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t-valorant6.jpg",
+      "PackagePath": "staticwebassets\\images\\100t-valorant6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100t.png",
+      "PackagePath": "staticwebassets\\images\\100t.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\100thieves_logo-960x500-1-696x363.jpg",
+      "PackagePath": "staticwebassets\\images\\100thieves_logo-960x500-1-696x363.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\1d672979925979.5cd2269d94e22.png",
+      "PackagePath": "staticwebassets\\images\\1d672979925979.5cd2269d94e22.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\3d image gallery.mp4",
+      "PackagePath": "staticwebassets\\images\\3d image gallery.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\80eada99158023.5ef44e47d725a.png",
+      "PackagePath": "staticwebassets\\images\\80eada99158023.5ef44e47d725a.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\Capture.PNG",
+      "PackagePath": "staticwebassets\\images\\Capture.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\EPkqn5wU4AA5bxu.jpg",
+      "PackagePath": "staticwebassets\\images\\EPkqn5wU4AA5bxu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\EjqE0KrUYAEeiZ0.jpg",
+      "PackagePath": "staticwebassets\\images\\EjqE0KrUYAEeiZ0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\FddC1ifaIAAg1LD.jfif",
+      "PackagePath": "staticwebassets\\images\\FddC1ifaIAAg1LD.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\Higround_SnowStone.jpg",
+      "PackagePath": "staticwebassets\\images\\Higround_SnowStone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\Snaptik.app_7151116260082879790.mp4",
+      "PackagePath": "staticwebassets\\images\\Snaptik.app_7151116260082879790.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\Snaptik.app_7151461199903903022.mp4",
+      "PackagePath": "staticwebassets\\images\\Snaptik.app_7151461199903903022.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\Snaptik.app_7200972213283982634.mp4",
+      "PackagePath": "staticwebassets\\images\\Snaptik.app_7200972213283982634.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\about box transitions.mp4",
+      "PackagePath": "staticwebassets\\images\\about box transitions.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\about slider.mp4",
+      "PackagePath": "staticwebassets\\images\\about slider.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\accordion image gallery.mp4",
+      "PackagePath": "staticwebassets\\images\\accordion image gallery.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alum-fuslie.jfif",
+      "PackagePath": "staticwebassets\\images\\alum-fuslie.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alum-fuslie2.jfif",
+      "PackagePath": "staticwebassets\\images\\alum-fuslie2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alum-fuslie3.jfif",
+      "PackagePath": "staticwebassets\\images\\alum-fuslie3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alum-fuslie4.jfif",
+      "PackagePath": "staticwebassets\\images\\alum-fuslie4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alum-rae.jfif",
+      "PackagePath": "staticwebassets\\images\\alum-rae.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alum-rae2.jfif",
+      "PackagePath": "staticwebassets\\images\\alum-rae2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alum-rae3.jfif",
+      "PackagePath": "staticwebassets\\images\\alum-rae3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alum-rae4.jfif",
+      "PackagePath": "staticwebassets\\images\\alum-rae4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alumni-2.jfif",
+      "PackagePath": "staticwebassets\\images\\alumni-2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alumni.jfif",
+      "PackagePath": "staticwebassets\\images\\alumni.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\alumni2.jfif",
+      "PackagePath": "staticwebassets\\images\\alumni2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\animated elements.mp4",
+      "PackagePath": "staticwebassets\\images\\animated elements.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\back.jpg",
+      "PackagePath": "staticwebassets\\images\\back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\barcode-horizontal.png",
+      "PackagePath": "staticwebassets\\images\\barcode-horizontal.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\barcode-side.jpg",
+      "PackagePath": "staticwebassets\\images\\barcode-side.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\barcode.png",
+      "PackagePath": "staticwebassets\\images\\barcode.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\bg-black.png",
+      "PackagePath": "staticwebassets\\images\\bg-black.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\bg-black2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-black2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\bg-black3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-black3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\bg-white.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\bg3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\blackwhite.png",
+      "PackagePath": "staticwebassets\\images\\blackwhite.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\blackwhite2.png",
+      "PackagePath": "staticwebassets\\images\\blackwhite2.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\blackwhite3.png",
+      "PackagePath": "staticwebassets\\images\\blackwhite3.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\blanket.jpg",
+      "PackagePath": "staticwebassets\\images\\blanket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\brooke.jpg",
+      "PackagePath": "staticwebassets\\images\\brooke.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\brooke2.jpg",
+      "PackagePath": "staticwebassets\\images\\brooke2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\brooke5.jpg",
+      "PackagePath": "staticwebassets\\images\\brooke5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\brookevinny.jpg",
+      "PackagePath": "staticwebassets\\images\\brookevinny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\brookevinny2.jpg",
+      "PackagePath": "staticwebassets\\images\\brookevinny2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\brookevinny3.jpg",
+      "PackagePath": "staticwebassets\\images\\brookevinny3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\brookevinny4.jpg",
+      "PackagePath": "staticwebassets\\images\\brookevinny4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\card container.mp4",
+      "PackagePath": "staticwebassets\\images\\card container.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\card hover.mp4",
+      "PackagePath": "staticwebassets\\images\\card hover.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\champs.jfif",
+      "PackagePath": "staticwebassets\\images\\champs.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\champs.jpg",
+      "PackagePath": "staticwebassets\\images\\champs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\compound-inside.jpg",
+      "PackagePath": "staticwebassets\\images\\compound-inside.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\compound-inside2.jpg",
+      "PackagePath": "staticwebassets\\images\\compound-inside2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\compound.jpg",
+      "PackagePath": "staticwebassets\\images\\compound.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\courage.jpg",
+      "PackagePath": "staticwebassets\\images\\courage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\courage2.jfif",
+      "PackagePath": "staticwebassets\\images\\courage2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\courage3.jpg",
+      "PackagePath": "staticwebassets\\images\\courage3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\cryo.jpg",
+      "PackagePath": "staticwebassets\\images\\cryo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\crystal.jpg",
+      "PackagePath": "staticwebassets\\images\\crystal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\crystal2.jpg",
+      "PackagePath": "staticwebassets\\images\\crystal2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\crystal3.jfif",
+      "PackagePath": "staticwebassets\\images\\crystal3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\crystal4.PNG",
+      "PackagePath": "staticwebassets\\images\\crystal4.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\drake-nade.jpeg",
+      "PackagePath": "staticwebassets\\images\\drake-nade.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\drake.jfif",
+      "PackagePath": "staticwebassets\\images\\drake.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\fall-kyedae.jfif",
+      "PackagePath": "staticwebassets\\images\\fall-kyedae.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\fall-kyedae2.jfif",
+      "PackagePath": "staticwebassets\\images\\fall-kyedae2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\fall-kyedae3.jfif",
+      "PackagePath": "staticwebassets\\images\\fall-kyedae3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\fall-rae.jpg",
+      "PackagePath": "staticwebassets\\images\\fall-rae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\filmgrain.jpg",
+      "PackagePath": "staticwebassets\\images\\filmgrain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\filmgraintransparent.png",
+      "PackagePath": "staticwebassets\\images\\filmgraintransparent.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\filmgrainwhite.png",
+      "PackagePath": "staticwebassets\\images\\filmgrainwhite.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\filmgrainwhite2.jpg",
+      "PackagePath": "staticwebassets\\images\\filmgrainwhite2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\filter card fx.mp4",
+      "PackagePath": "staticwebassets\\images\\filter card fx.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundation-fuslie.jfif",
+      "PackagePath": "staticwebassets\\images\\foundation-fuslie.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundation-fuslie2.jpg",
+      "PackagePath": "staticwebassets\\images\\foundation-fuslie2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundation-fuslie3.jfif",
+      "PackagePath": "staticwebassets\\images\\foundation-fuslie3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundation-fuslie4.jfif",
+      "PackagePath": "staticwebassets\\images\\foundation-fuslie4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundation-fuslie5.jfif",
+      "PackagePath": "staticwebassets\\images\\foundation-fuslie5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundation-neeko.jfif",
+      "PackagePath": "staticwebassets\\images\\foundation-neeko.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundation-rae.jfif",
+      "PackagePath": "staticwebassets\\images\\foundation-rae.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundation-rae2.jfif",
+      "PackagePath": "staticwebassets\\images\\foundation-rae2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundations-rae.jfif",
+      "PackagePath": "staticwebassets\\images\\foundations-rae.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundations.jfif",
+      "PackagePath": "staticwebassets\\images\\foundations.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\foundations.jpg",
+      "PackagePath": "staticwebassets\\images\\foundations.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\highground1.jpg",
+      "PackagePath": "staticwebassets\\images\\highground1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\highground2.jpg",
+      "PackagePath": "staticwebassets\\images\\highground2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\highground3.jpg",
+      "PackagePath": "staticwebassets\\images\\highground3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\highground4.jpg",
+      "PackagePath": "staticwebassets\\images\\highground4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\highground5.jpg",
+      "PackagePath": "staticwebassets\\images\\highground5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\highground6.jpg",
+      "PackagePath": "staticwebassets\\images\\highground6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\highground7.jpg",
+      "PackagePath": "staticwebassets\\images\\highground7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\higround-logo.jpg",
+      "PackagePath": "staticwebassets\\images\\higround-logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\higround-streetfighter.jfif",
+      "PackagePath": "staticwebassets\\images\\higround-streetfighter.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\higround-streetfighter2.jfif",
+      "PackagePath": "staticwebassets\\images\\higround-streetfighter2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\higround-streetfighter3.jfif",
+      "PackagePath": "staticwebassets\\images\\higround-streetfighter3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\higround-streetfighter4.jfif",
+      "PackagePath": "staticwebassets\\images\\higround-streetfighter4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\horizontal media scroller.mp4",
+      "PackagePath": "staticwebassets\\images\\horizontal media scroller.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\icon pulse animation.mp4",
+      "PackagePath": "staticwebassets\\images\\icon pulse animation.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\image hover.mp4",
+      "PackagePath": "staticwebassets\\images\\image hover.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\image zoom.mp4",
+      "PackagePath": "staticwebassets\\images\\image zoom.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\images (1).png",
+      "PackagePath": "staticwebassets\\images\\images (1).png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\images.png",
+      "PackagePath": "staticwebassets\\images\\images.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo10.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo10.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo11.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo11.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo12.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo12.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo13.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo13.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo14.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo14.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo15.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo15.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo16.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo16.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo17.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo17.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo18.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo18.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo19.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo19.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo2.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo20.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo20.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo21.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo21.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo22.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo22.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo23.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo23.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo24.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo24.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo25.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo25.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo26.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo26.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo27.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo27.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo28.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo28.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo29.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo29.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo3.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo30.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo30.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo31.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo31.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo32.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo32.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo33.jpg",
+      "PackagePath": "staticwebassets\\images\\inspo33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo34.jpg",
+      "PackagePath": "staticwebassets\\images\\inspo34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo35.jpg",
+      "PackagePath": "staticwebassets\\images\\inspo35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo36.jpg",
+      "PackagePath": "staticwebassets\\images\\inspo36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo37.jpg",
+      "PackagePath": "staticwebassets\\images\\inspo37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo38.jpg",
+      "PackagePath": "staticwebassets\\images\\inspo38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo39.jpg",
+      "PackagePath": "staticwebassets\\images\\inspo39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo4.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo4.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo40.jpg",
+      "PackagePath": "staticwebassets\\images\\inspo40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo41.jpg",
+      "PackagePath": "staticwebassets\\images\\inspo41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo42.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo42.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo43.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo43.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo44.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo44.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo5.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo5.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo6.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo6.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo7.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo7.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo8.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo8.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\inspo9.PNG",
+      "PackagePath": "staticwebassets\\images\\inspo9.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\juju.jpg",
+      "PackagePath": "staticwebassets\\images\\juju.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\jujutsu-rae.jfif",
+      "PackagePath": "staticwebassets\\images\\jujutsu-rae.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\jujutsu-rae2.jpg",
+      "PackagePath": "staticwebassets\\images\\jujutsu-rae2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\jujutsu.jfif",
+      "PackagePath": "staticwebassets\\images\\jujutsu.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\jujutsu2.jfif",
+      "PackagePath": "staticwebassets\\images\\jujutsu2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\juvee-nade.png",
+      "PackagePath": "staticwebassets\\images\\juvee-nade.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\juvee-nade2.png",
+      "PackagePath": "staticwebassets\\images\\juvee-nade2.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\la-thieves.jfif",
+      "PackagePath": "staticwebassets\\images\\la-thieves.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\la-thieves2.jfif",
+      "PackagePath": "staticwebassets\\images\\la-thieves2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\la-thieves3.jfif",
+      "PackagePath": "staticwebassets\\images\\la-thieves3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\la-thieves4.jfif",
+      "PackagePath": "staticwebassets\\images\\la-thieves4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\la-thieves5.jfif",
+      "PackagePath": "staticwebassets\\images\\la-thieves5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\layer animation gallery.mp4",
+      "PackagePath": "staticwebassets\\images\\layer animation gallery.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\loading.mp4",
+      "PackagePath": "staticwebassets\\images\\loading.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\lol.png",
+      "PackagePath": "staticwebassets\\images\\lol.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\lough.jpg",
+      "PackagePath": "staticwebassets\\images\\lough.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\lough2.jpg",
+      "PackagePath": "staticwebassets\\images\\lough2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\lough3.jpg",
+      "PackagePath": "staticwebassets\\images\\lough3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\lough4.jpg",
+      "PackagePath": "staticwebassets\\images\\lough4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\lough5.jpg",
+      "PackagePath": "staticwebassets\\images\\lough5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\muted_100_thieves_logo_over_black_background.jpg",
+      "PackagePath": "staticwebassets\\images\\muted_100_thieves_logo_over_black_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot-logo.jfif",
+      "PackagePath": "staticwebassets\\images\\nadeshot-logo.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot.jpg",
+      "PackagePath": "staticwebassets\\images\\nadeshot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot1.jpg",
+      "PackagePath": "staticwebassets\\images\\nadeshot1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot10.jfif",
+      "PackagePath": "staticwebassets\\images\\nadeshot10.jfif"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot11.PNG",
+      "PackagePath": "staticwebassets\\images\\nadeshot11.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot12.png",
+      "PackagePath": "staticwebassets\\images\\nadeshot12.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot3.jpg",
+      "PackagePath": "staticwebassets\\images\\nadeshot3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot4.jpg",
+      "PackagePath": "staticwebassets\\images\\nadeshot4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot5.jpg",
+      "PackagePath": "staticwebassets\\images\\nadeshot5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot6.PNG",
+      "PackagePath": "staticwebassets\\images\\nadeshot6.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot7.jpg",
+      "PackagePath": "staticwebassets\\images\\nadeshot7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot8.jpg",
+      "PackagePath": "staticwebassets\\images\\nadeshot8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\nadeshot9.jpg",
+      "PackagePath": "staticwebassets\\images\\nadeshot9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\navbar animation.mp4",
+      "PackagePath": "staticwebassets\\images\\navbar animation.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\navbar lavalamp navigation.mp4",
+      "PackagePath": "staticwebassets\\images\\navbar lavalamp navigation.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\offwhite.png",
+      "PackagePath": "staticwebassets\\images\\offwhite.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\offwhite2.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\offwhite3.jpg",
+      "PackagePath": "staticwebassets\\images\\offwhite3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\owners.jpg",
+      "PackagePath": "staticwebassets\\images\\owners.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\owners1.jpeg",
+      "PackagePath": "staticwebassets\\images\\owners1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\owners2.jpg_large",
+      "PackagePath": "staticwebassets\\images\\owners2.jpg_large"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\palette.png",
+      "PackagePath": "staticwebassets\\images\\palette.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\peter.jpg",
+      "PackagePath": "staticwebassets\\images\\peter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\pngtree-barcode-clip-art-png-image_8062030.png",
+      "PackagePath": "staticwebassets\\images\\pngtree-barcode-clip-art-png-image_8062030.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\premium-los-angeles-100-thieves-alumni-collection-shirt-shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\premium-los-angeles-100-thieves-alumni-collection-shirt-shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\profile card hover effect.mp4",
+      "PackagePath": "staticwebassets\\images\\profile card hover effect.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae.jpg",
+      "PackagePath": "staticwebassets\\images\\rae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae1.jpg",
+      "PackagePath": "staticwebassets\\images\\rae1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae10.jpg",
+      "PackagePath": "staticwebassets\\images\\rae10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae11.jpeg",
+      "PackagePath": "staticwebassets\\images\\rae11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae12.jpg",
+      "PackagePath": "staticwebassets\\images\\rae12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae13.jpg",
+      "PackagePath": "staticwebassets\\images\\rae13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae14.jpg",
+      "PackagePath": "staticwebassets\\images\\rae14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae15.jpg",
+      "PackagePath": "staticwebassets\\images\\rae15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae16.jpg",
+      "PackagePath": "staticwebassets\\images\\rae16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae16.png",
+      "PackagePath": "staticwebassets\\images\\rae16.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae17.jpg",
+      "PackagePath": "staticwebassets\\images\\rae17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae3.jpg",
+      "PackagePath": "staticwebassets\\images\\rae3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae4.jpg",
+      "PackagePath": "staticwebassets\\images\\rae4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae5.jpg",
+      "PackagePath": "staticwebassets\\images\\rae5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae6.jpg",
+      "PackagePath": "staticwebassets\\images\\rae6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae7.jpg",
+      "PackagePath": "staticwebassets\\images\\rae7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae8.PNG",
+      "PackagePath": "staticwebassets\\images\\rae8.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\rae9.jpg",
+      "PackagePath": "staticwebassets\\images\\rae9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\responsive cards no media queries.mp4",
+      "PackagePath": "staticwebassets\\images\\responsive cards no media queries.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\responsive navbar.mp4",
+      "PackagePath": "staticwebassets\\images\\responsive navbar.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\sale.PNG",
+      "PackagePath": "staticwebassets\\images\\sale.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\semantic.mp4",
+      "PackagePath": "staticwebassets\\images\\semantic.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\sen chart.PNG",
+      "PackagePath": "staticwebassets\\images\\sen chart.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\sphx_glr_barcode_demo_001.png",
+      "PackagePath": "staticwebassets\\images\\sphx_glr_barcode_demo_001.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spotlight.jpg",
+      "PackagePath": "staticwebassets\\images\\spotlight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring1.jpg",
+      "PackagePath": "staticwebassets\\images\\spring1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring10.jpg",
+      "PackagePath": "staticwebassets\\images\\spring10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring11.jpg",
+      "PackagePath": "staticwebassets\\images\\spring11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring12.jpg",
+      "PackagePath": "staticwebassets\\images\\spring12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring2.jpg",
+      "PackagePath": "staticwebassets\\images\\spring2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring3.jpg",
+      "PackagePath": "staticwebassets\\images\\spring3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring4.jpg",
+      "PackagePath": "staticwebassets\\images\\spring4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring5.jpg",
+      "PackagePath": "staticwebassets\\images\\spring5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring6.jpg",
+      "PackagePath": "staticwebassets\\images\\spring6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring7.jpg",
+      "PackagePath": "staticwebassets\\images\\spring7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring8.jpg",
+      "PackagePath": "staticwebassets\\images\\spring8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\spring9.jpg",
+      "PackagePath": "staticwebassets\\images\\spring9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\springval.jpg",
+      "PackagePath": "staticwebassets\\images\\springval.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\sticky navbar.mp4",
+      "PackagePath": "staticwebassets\\images\\sticky navbar.mp4"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\tarik-nade.PNG",
+      "PackagePath": "staticwebassets\\images\\tarik-nade.PNG"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\team.jpg",
+      "PackagePath": "staticwebassets\\images\\team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\val-logo.png",
+      "PackagePath": "staticwebassets\\images\\val-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\val-logo2.png",
+      "PackagePath": "staticwebassets\\images\\val-logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\val-logo3.png",
+      "PackagePath": "staticwebassets\\images\\val-logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\val-logo4.png",
+      "PackagePath": "staticwebassets\\images\\val-logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\val-logo5.png",
+      "PackagePath": "staticwebassets\\images\\val-logo5.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\valkynade.jpg",
+      "PackagePath": "staticwebassets\\images\\valkynade.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\valkyrae-logo.png",
+      "PackagePath": "staticwebassets\\images\\valkyrae-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\vct.png",
+      "PackagePath": "staticwebassets\\images\\vct.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\vinny.jpg",
+      "PackagePath": "staticwebassets\\images\\vinny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\vinny2.jpg",
+      "PackagePath": "staticwebassets\\images\\vinny2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\vinny3.jpg",
+      "PackagePath": "staticwebassets\\images\\vinny3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\vinny4.jpg",
+      "PackagePath": "staticwebassets\\images\\vinny4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\vinny5.jpg",
+      "PackagePath": "staticwebassets\\images\\vinny5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\white-top.jpg",
+      "PackagePath": "staticwebassets\\images\\white-top.jpg"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\images\\whitelogo.png",
+      "PackagePath": "staticwebassets\\images\\whitelogo.png"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\RMBlog.js",
+      "PackagePath": "staticwebassets\\js\\RMBlog.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\Tabs.js",
+      "PackagePath": "staticwebassets\\js\\Tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\blogintro.js",
+      "PackagePath": "staticwebassets\\js\\blogintro.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\caro.js",
+      "PackagePath": "staticwebassets\\js\\caro.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\flexslider.js",
+      "PackagePath": "staticwebassets\\js\\flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\homeLoading.js",
+      "PackagePath": "staticwebassets\\js\\homeLoading.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\homeSlider.js",
+      "PackagePath": "staticwebassets\\js\\homeSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\minNav.js",
+      "PackagePath": "staticwebassets\\js\\minNav.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\multicard.js",
+      "PackagePath": "staticwebassets\\js\\multicard.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\pace.js",
+      "PackagePath": "staticwebassets\\js\\pace.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\prodslider.js",
+      "PackagePath": "staticwebassets\\js\\prodslider.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\sResponseSlider.js",
+      "PackagePath": "staticwebassets\\js\\sResponseSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\script.vue",
+      "PackagePath": "staticwebassets\\js\\script.vue"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\scrollTrigger.1.js",
+      "PackagePath": "staticwebassets\\js\\scrollTrigger.1.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\scrollTrigger.js",
+      "PackagePath": "staticwebassets\\js\\scrollTrigger.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\site2.js",
+      "PackagePath": "staticwebassets\\js\\site2.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\smoothscroll.js",
+      "PackagePath": "staticwebassets\\js\\smoothscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\split.js",
+      "PackagePath": "staticwebassets\\js\\split.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\springSlider.js",
+      "PackagePath": "staticwebassets\\js\\springSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\js\\timeOnSlide.js",
+      "PackagePath": "staticwebassets\\js\\timeOnSlide.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\roman\\OneDrive\\Documents\\GitHub\\Portfolio Projects\\HundredThievesWebsite\\HundredThievesWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.HundredThievesWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.HundredThievesWebsite.props",
+      "PackagePath": "build\\HundredThievesWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HundredThievesWebsite.props",
+      "PackagePath": "buildMultiTargeting\\HundredThievesWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.HundredThievesWebsite.props",
+      "PackagePath": "buildTransitive\\HundredThievesWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
